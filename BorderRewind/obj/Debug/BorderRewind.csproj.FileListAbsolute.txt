@@ -1,0 +1,15 @@
+D:\programming\Csharp\WPF Rewind 2018\BorderRewind\bin\Debug\BorderRewind.exe.config
+D:\programming\Csharp\WPF Rewind 2018\BorderRewind\bin\Debug\BorderRewind.exe
+D:\programming\Csharp\WPF Rewind 2018\BorderRewind\bin\Debug\BorderRewind.pdb
+D:\programming\Csharp\WPF Rewind 2018\BorderRewind\obj\Debug\BorderRewind.csprojResolveAssemblyReference.cache
+D:\programming\Csharp\WPF Rewind 2018\BorderRewind\obj\Debug\MainWindow.g.cs
+D:\programming\Csharp\WPF Rewind 2018\BorderRewind\obj\Debug\App.g.cs
+D:\programming\Csharp\WPF Rewind 2018\BorderRewind\obj\Debug\BorderRewind_MarkupCompile.cache
+D:\programming\Csharp\WPF Rewind 2018\BorderRewind\obj\Debug\BorderRewind_MarkupCompile.lref
+D:\programming\Csharp\WPF Rewind 2018\BorderRewind\obj\Debug\MainWindow.baml
+D:\programming\Csharp\WPF Rewind 2018\BorderRewind\obj\Debug\BorderRewind.g.resources
+D:\programming\Csharp\WPF Rewind 2018\BorderRewind\obj\Debug\BorderRewind.Properties.Resources.resources
+D:\programming\Csharp\WPF Rewind 2018\BorderRewind\obj\Debug\BorderRewind.csproj.GenerateResource.Cache
+D:\programming\Csharp\WPF Rewind 2018\BorderRewind\obj\Debug\BorderRewind.csproj.CoreCompileInputs.cache
+D:\programming\Csharp\WPF Rewind 2018\BorderRewind\obj\Debug\BorderRewind.exe
+D:\programming\Csharp\WPF Rewind 2018\BorderRewind\obj\Debug\BorderRewind.pdb

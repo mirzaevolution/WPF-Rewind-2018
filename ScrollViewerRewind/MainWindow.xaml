@@ -1,0 +1,92 @@
+﻿<Window x:Class="ScrollViewerRewind.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ScrollViewerRewind"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="381" Width="410.5">
+    <Window.Resources>
+        <Style TargetType="TextBlock" x:Key="textBlockStyle">
+            <Setter Property="Margin" Value="4"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="Width" Value="40"/>
+        </Style>
+        <Style TargetType="RepeatButton">
+            <Setter Property="Margin" Value="4"/>
+            <Setter Property="Padding" Value="2"/>
+            <Setter Property="Width" Value="78"/>
+        </Style>
+    </Window.Resources>
+    <DockPanel>
+
+        <StackPanel DockPanel.Dock="Bottom" Orientation="Horizontal" Margin="3">
+            
+            <RepeatButton Name="repeateButtonScrollToHome" Content="Scroll To Home" 
+                          Click="RepeateButtonScrollToHomeOnClick" Width="100" Margin="52,4,4,4"/>
+            <RepeatButton Name="repeateButtonScrollToEnd" Content="Scroll To End" 
+                          Click="RepeateButtonScrollToEndOnClick" Width="100"/>
+        </StackPanel>
+        <StackPanel DockPanel.Dock="Bottom" Orientation="Horizontal" Margin="3">
+            <TextBlock Text=" Scroll - " Style="{StaticResource textBlockStyle}"/>
+            <RepeatButton Name="repeateButtonScrollTop" Content="Scroll Top" Click="RepeateButtonScrollTopOnClick"/>
+            <RepeatButton Name="repeateButtonScrollBottom" Content="Scroll Bottom" Click="RepeateButtonScrollBottomOnClick"/>
+            <RepeatButton Name="repeateButtonScrollLeft" Content="Scroll Left" Click="RepeateButtonScrollLeftOnClick"/>
+            <RepeatButton Name="repeateButtonScrollRight" Content="Scroll Right" Click="RepeateButtonScrollRightOnClick"/>
+        </StackPanel>
+
+        <StackPanel DockPanel.Dock="Bottom" Orientation="Horizontal" Margin="3">
+            <TextBlock Text=" Page - " Style="{StaticResource textBlockStyle}"/>
+            <RepeatButton Name="repateButtonPageUp" Content="Page Up" Click="RepeateButtonPageUp"/>
+            <RepeatButton Name="repeateButtonPageDown" Content="Page Down" Click="RepeateButtonPageDown"/>
+
+            <RepeatButton Name="repateButtonPageLeft" Content="Page Left" Click="RepeateButtonPageLeft"/>
+            <RepeatButton Name="repeateButtonPageRight" Content="Page Right" Click="RepeateButtonPageRight"/>
+        </StackPanel>
+        <StackPanel DockPanel.Dock="Bottom" Orientation="Horizontal" Margin="3">
+            <TextBlock Text=" Line - " Style="{StaticResource textBlockStyle}"/>
+            <RepeatButton Name="repeateButtonLineUp" Content="Line Up" Click="RepeateButtonLineUpOnClick"/>
+            <RepeatButton Name="repeateButtonLineDown" Content="Line Down" Click="RepeateButtonLineDownOnClick"/>
+            <RepeatButton Name="repeateButtonLineLeft" Content="Line Left" Click="RepeateButtonLineLeftOnClick"/>
+            <RepeatButton Name="repeateButtonLineRight" Content="Line Right" Click="RepeateButtonLineRightOnClick"/>
+        </StackPanel>
+    
+        <ScrollViewer Name="scrollViewerTest" HorizontalScrollBarVisibility="Auto" 
+                      
+                      Background="Black" Foreground="Lime" Width="325" Margin="5" 
+                      Padding="4">
+            <TextBlock TextWrapping="Wrap" FontSize="14" FontFamily="Consolas">
+              public IHttpActionResult GetActivity(int? areaId = null, string activity="")<LineBreak/>
+        {<LineBreak/>
+            IHttpActionResult result = null;<LineBreak/>
+<LineBreak/>
+            try<LineBreak/>
+            {<LineBreak/>
+                ICollection&lt;Activity&gt; dataActivity = _serviceActivity.GetActivity(areaId, activity, _userId);<LineBreak/>
+                if (dataActivity != null)<LineBreak/>
+                {<LineBreak/>
+                    result = Ok(Mapper.Map&lt;ICollection&lt;Activity&gt;, ICollection&lt;Views.ActivityViewModel&gt;&gt;(dataActivity));<LineBreak/>
+                }<LineBreak/>
+                else<LineBreak/>
+                {<LineBreak/>
+                    result = NotFound();<LineBreak/>
+                }<LineBreak/>
+            }<LineBreak/>
+            catch (Exception ex)<LineBreak/>
+            {<LineBreak/>
+                result = new System.Web.Http.Results.ResponseMessageResult(<LineBreak/>
+                    Request.CreateErrorResponse(<LineBreak/>
+                        HttpStatusCode.InternalServerError,<LineBreak/>
+                        new HttpError(string.Format("{0} {1} - {2}",<LineBreak/>
+                            ExceptionType.GeneralException.GetHashCode().ToString(),<LineBreak/>
+                            ExceptionType.GeneralException.GetStringValue(), Tools.GetAndLogException(ex)))<LineBreak/>
+                    )<LineBreak/>
+                );<LineBreak/>
+            }<LineBreak/>
+
+            return result;<LineBreak/>
+        }<LineBreak/>
+            </TextBlock>
+        </ScrollViewer>
+    </DockPanel>
+</Window>

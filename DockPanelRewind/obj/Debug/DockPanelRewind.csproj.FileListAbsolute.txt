@@ -1,0 +1,15 @@
+D:\programming\Csharp\WPF Rewind 2018\DockPanelRewind\bin\Debug\DockPanelRewind.exe.config
+D:\programming\Csharp\WPF Rewind 2018\DockPanelRewind\bin\Debug\DockPanelRewind.exe
+D:\programming\Csharp\WPF Rewind 2018\DockPanelRewind\bin\Debug\DockPanelRewind.pdb
+D:\programming\Csharp\WPF Rewind 2018\DockPanelRewind\obj\Debug\DockPanelRewind.csprojResolveAssemblyReference.cache
+D:\programming\Csharp\WPF Rewind 2018\DockPanelRewind\obj\Debug\MainWindow.g.cs
+D:\programming\Csharp\WPF Rewind 2018\DockPanelRewind\obj\Debug\App.g.cs
+D:\programming\Csharp\WPF Rewind 2018\DockPanelRewind\obj\Debug\DockPanelRewind_MarkupCompile.cache
+D:\programming\Csharp\WPF Rewind 2018\DockPanelRewind\obj\Debug\DockPanelRewind_MarkupCompile.lref
+D:\programming\Csharp\WPF Rewind 2018\DockPanelRewind\obj\Debug\MainWindow.baml
+D:\programming\Csharp\WPF Rewind 2018\DockPanelRewind\obj\Debug\DockPanelRewind.g.resources
+D:\programming\Csharp\WPF Rewind 2018\DockPanelRewind\obj\Debug\DockPanelRewind.Properties.Resources.resources
+D:\programming\Csharp\WPF Rewind 2018\DockPanelRewind\obj\Debug\DockPanelRewind.csproj.GenerateResource.Cache
+D:\programming\Csharp\WPF Rewind 2018\DockPanelRewind\obj\Debug\DockPanelRewind.csproj.CoreCompileInputs.cache
+D:\programming\Csharp\WPF Rewind 2018\DockPanelRewind\obj\Debug\DockPanelRewind.exe
+D:\programming\Csharp\WPF Rewind 2018\DockPanelRewind\obj\Debug\DockPanelRewind.pdb

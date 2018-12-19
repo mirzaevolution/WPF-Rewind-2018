@@ -1,0 +1,17 @@
+D:\programming\Csharp\WPF Rewind 2018\WPF Rewind 2018\bin\Debug\WPF Rewind 2018.exe.config
+D:\programming\Csharp\WPF Rewind 2018\WPF Rewind 2018\bin\Debug\WPF Rewind 2018.exe
+D:\programming\Csharp\WPF Rewind 2018\WPF Rewind 2018\bin\Debug\WPF Rewind 2018.pdb
+D:\programming\Csharp\WPF Rewind 2018\WPF Rewind 2018\obj\Debug\WPF Rewind 2018.csprojResolveAssemblyReference.cache
+D:\programming\Csharp\WPF Rewind 2018\WPF Rewind 2018\obj\Debug\MainWindow.g.cs
+D:\programming\Csharp\WPF Rewind 2018\WPF Rewind 2018\obj\Debug\App.g.cs
+D:\programming\Csharp\WPF Rewind 2018\WPF Rewind 2018\obj\Debug\WPF Rewind 2018_MarkupCompile.cache
+D:\programming\Csharp\WPF Rewind 2018\WPF Rewind 2018\obj\Debug\WPF Rewind 2018_MarkupCompile.lref
+D:\programming\Csharp\WPF Rewind 2018\WPF Rewind 2018\obj\Debug\MainWindow.baml
+D:\programming\Csharp\WPF Rewind 2018\WPF Rewind 2018\obj\Debug\WPF Rewind 2018.g.resources
+D:\programming\Csharp\WPF Rewind 2018\WPF Rewind 2018\obj\Debug\WPF_Rewind_2018.Properties.Resources.resources
+D:\programming\Csharp\WPF Rewind 2018\WPF Rewind 2018\obj\Debug\WPF Rewind 2018.csproj.GenerateResource.Cache
+D:\programming\Csharp\WPF Rewind 2018\WPF Rewind 2018\obj\Debug\WPF Rewind 2018.csproj.CoreCompileInputs.cache
+D:\programming\Csharp\WPF Rewind 2018\WPF Rewind 2018\obj\Debug\WPF Rewind 2018.exe
+D:\programming\Csharp\WPF Rewind 2018\WPF Rewind 2018\obj\Debug\WPF Rewind 2018.pdb
+D:\programming\Csharp\WPF Rewind 2018\WPF Rewind 2018\bin\Debug\Newtonsoft.Json.dll
+D:\programming\Csharp\WPF Rewind 2018\WPF Rewind 2018\bin\Debug\Newtonsoft.Json.xml

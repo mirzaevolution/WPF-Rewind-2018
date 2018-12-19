@@ -1,0 +1,15 @@
+D:\programming\Csharp\WPF Rewind 2018\Canvas\bin\Debug\Canvas.exe.config
+D:\programming\Csharp\WPF Rewind 2018\Canvas\bin\Debug\Canvas.exe
+D:\programming\Csharp\WPF Rewind 2018\Canvas\bin\Debug\Canvas.pdb
+D:\programming\Csharp\WPF Rewind 2018\Canvas\obj\Debug\Canvas.csprojResolveAssemblyReference.cache
+D:\programming\Csharp\WPF Rewind 2018\Canvas\obj\Debug\MainWindow.g.cs
+D:\programming\Csharp\WPF Rewind 2018\Canvas\obj\Debug\App.g.cs
+D:\programming\Csharp\WPF Rewind 2018\Canvas\obj\Debug\Canvas_MarkupCompile.cache
+D:\programming\Csharp\WPF Rewind 2018\Canvas\obj\Debug\Canvas_MarkupCompile.lref
+D:\programming\Csharp\WPF Rewind 2018\Canvas\obj\Debug\MainWindow.baml
+D:\programming\Csharp\WPF Rewind 2018\Canvas\obj\Debug\Canvas.g.resources
+D:\programming\Csharp\WPF Rewind 2018\Canvas\obj\Debug\Canvas.Properties.Resources.resources
+D:\programming\Csharp\WPF Rewind 2018\Canvas\obj\Debug\Canvas.csproj.GenerateResource.Cache
+D:\programming\Csharp\WPF Rewind 2018\Canvas\obj\Debug\Canvas.csproj.CoreCompileInputs.cache
+D:\programming\Csharp\WPF Rewind 2018\Canvas\obj\Debug\Canvas.exe
+D:\programming\Csharp\WPF Rewind 2018\Canvas\obj\Debug\Canvas.pdb

@@ -1,0 +1,15 @@
+D:\programming\Csharp\WPF Rewind 2018\UniformGridRewind\bin\Debug\UniformGridRewind.exe.config
+D:\programming\Csharp\WPF Rewind 2018\UniformGridRewind\bin\Debug\UniformGridRewind.exe
+D:\programming\Csharp\WPF Rewind 2018\UniformGridRewind\bin\Debug\UniformGridRewind.pdb
+D:\programming\Csharp\WPF Rewind 2018\UniformGridRewind\obj\Debug\UniformGridRewind.csprojResolveAssemblyReference.cache
+D:\programming\Csharp\WPF Rewind 2018\UniformGridRewind\obj\Debug\MainWindow.g.cs
+D:\programming\Csharp\WPF Rewind 2018\UniformGridRewind\obj\Debug\App.g.cs
+D:\programming\Csharp\WPF Rewind 2018\UniformGridRewind\obj\Debug\UniformGridRewind_MarkupCompile.cache
+D:\programming\Csharp\WPF Rewind 2018\UniformGridRewind\obj\Debug\UniformGridRewind_MarkupCompile.lref
+D:\programming\Csharp\WPF Rewind 2018\UniformGridRewind\obj\Debug\MainWindow.baml
+D:\programming\Csharp\WPF Rewind 2018\UniformGridRewind\obj\Debug\UniformGridRewind.g.resources
+D:\programming\Csharp\WPF Rewind 2018\UniformGridRewind\obj\Debug\UniformGridRewind.Properties.Resources.resources
+D:\programming\Csharp\WPF Rewind 2018\UniformGridRewind\obj\Debug\UniformGridRewind.csproj.GenerateResource.Cache
+D:\programming\Csharp\WPF Rewind 2018\UniformGridRewind\obj\Debug\UniformGridRewind.csproj.CoreCompileInputs.cache
+D:\programming\Csharp\WPF Rewind 2018\UniformGridRewind\obj\Debug\UniformGridRewind.exe
+D:\programming\Csharp\WPF Rewind 2018\UniformGridRewind\obj\Debug\UniformGridRewind.pdb

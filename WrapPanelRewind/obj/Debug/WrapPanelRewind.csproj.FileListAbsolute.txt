@@ -1,0 +1,14 @@
+D:\programming\Csharp\WPF Rewind 2018\WrapPanelRewind\bin\Debug\WrapPanelRewind.exe.config
+D:\programming\Csharp\WPF Rewind 2018\WrapPanelRewind\bin\Debug\WrapPanelRewind.exe
+D:\programming\Csharp\WPF Rewind 2018\WrapPanelRewind\bin\Debug\WrapPanelRewind.pdb
+D:\programming\Csharp\WPF Rewind 2018\WrapPanelRewind\obj\Debug\MainWindow.g.cs
+D:\programming\Csharp\WPF Rewind 2018\WrapPanelRewind\obj\Debug\App.g.cs
+D:\programming\Csharp\WPF Rewind 2018\WrapPanelRewind\obj\Debug\WrapPanelRewind_MarkupCompile.cache
+D:\programming\Csharp\WPF Rewind 2018\WrapPanelRewind\obj\Debug\WrapPanelRewind_MarkupCompile.lref
+D:\programming\Csharp\WPF Rewind 2018\WrapPanelRewind\obj\Debug\MainWindow.baml
+D:\programming\Csharp\WPF Rewind 2018\WrapPanelRewind\obj\Debug\WrapPanelRewind.g.resources
+D:\programming\Csharp\WPF Rewind 2018\WrapPanelRewind\obj\Debug\WrapPanelRewind.Properties.Resources.resources
+D:\programming\Csharp\WPF Rewind 2018\WrapPanelRewind\obj\Debug\WrapPanelRewind.csproj.GenerateResource.Cache
+D:\programming\Csharp\WPF Rewind 2018\WrapPanelRewind\obj\Debug\WrapPanelRewind.csproj.CoreCompileInputs.cache
+D:\programming\Csharp\WPF Rewind 2018\WrapPanelRewind\obj\Debug\WrapPanelRewind.exe
+D:\programming\Csharp\WPF Rewind 2018\WrapPanelRewind\obj\Debug\WrapPanelRewind.pdb
