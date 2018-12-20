@@ -1,0 +1,25 @@
+﻿<Window x:Class="RichTextBoxRewind.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RichTextBoxRewind"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="273.5" Width="330">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <WrapPanel Margin="10" HorizontalAlignment="Center">
+            <Button Name="ButtonOpen" Content="Open" Width="80" Height="26" Margin="5" Click="ButtonOpen_Click" ClickMode="Press"/>
+            <Button Name="ButtonNew" Content="New" Width="80" Height="26" Margin="5" Click="ButtonNew_Click"/>
+            <Button Name="ButtonSave" Content="Save" Width="80" Height="26" Margin="5" Click="ButtonSave_Click"/>
+
+        </WrapPanel>
+        <RichTextBox Name="RichTextBoxMain" Margin="10" Grid.Row="1"
+                     AllowDrop="True" IsUndoEnabled="True">
+            
+        </RichTextBox>
+    </Grid>
+</Window>

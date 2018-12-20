@@ -1,0 +1,15 @@
+D:\programming\Csharp\WPF Rewind 2018\RichTextBox2Rewind\bin\Debug\RichTextBox2Rewind.exe.config
+D:\programming\Csharp\WPF Rewind 2018\RichTextBox2Rewind\bin\Debug\RichTextBox2Rewind.exe
+D:\programming\Csharp\WPF Rewind 2018\RichTextBox2Rewind\bin\Debug\RichTextBox2Rewind.pdb
+D:\programming\Csharp\WPF Rewind 2018\RichTextBox2Rewind\obj\Debug\RichTextBox2Rewind.csprojResolveAssemblyReference.cache
+D:\programming\Csharp\WPF Rewind 2018\RichTextBox2Rewind\obj\Debug\MainWindow.g.cs
+D:\programming\Csharp\WPF Rewind 2018\RichTextBox2Rewind\obj\Debug\App.g.cs
+D:\programming\Csharp\WPF Rewind 2018\RichTextBox2Rewind\obj\Debug\RichTextBox2Rewind_MarkupCompile.cache
+D:\programming\Csharp\WPF Rewind 2018\RichTextBox2Rewind\obj\Debug\RichTextBox2Rewind_MarkupCompile.lref
+D:\programming\Csharp\WPF Rewind 2018\RichTextBox2Rewind\obj\Debug\MainWindow.baml
+D:\programming\Csharp\WPF Rewind 2018\RichTextBox2Rewind\obj\Debug\RichTextBox2Rewind.g.resources
+D:\programming\Csharp\WPF Rewind 2018\RichTextBox2Rewind\obj\Debug\RichTextBox2Rewind.Properties.Resources.resources
+D:\programming\Csharp\WPF Rewind 2018\RichTextBox2Rewind\obj\Debug\RichTextBox2Rewind.csproj.GenerateResource.Cache
+D:\programming\Csharp\WPF Rewind 2018\RichTextBox2Rewind\obj\Debug\RichTextBox2Rewind.csproj.CoreCompileInputs.cache
+D:\programming\Csharp\WPF Rewind 2018\RichTextBox2Rewind\obj\Debug\RichTextBox2Rewind.exe
+D:\programming\Csharp\WPF Rewind 2018\RichTextBox2Rewind\obj\Debug\RichTextBox2Rewind.pdb

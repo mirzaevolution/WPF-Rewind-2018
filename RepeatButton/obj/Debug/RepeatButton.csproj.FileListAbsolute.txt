@@ -1,0 +1,14 @@
+D:\programming\Csharp\WPF Rewind 2018\RepeatButton\bin\Debug\RepeatButton.exe.config
+D:\programming\Csharp\WPF Rewind 2018\RepeatButton\bin\Debug\RepeatButton.exe
+D:\programming\Csharp\WPF Rewind 2018\RepeatButton\bin\Debug\RepeatButton.pdb
+D:\programming\Csharp\WPF Rewind 2018\RepeatButton\obj\Debug\MainWindow.g.cs
+D:\programming\Csharp\WPF Rewind 2018\RepeatButton\obj\Debug\App.g.cs
+D:\programming\Csharp\WPF Rewind 2018\RepeatButton\obj\Debug\RepeatButton_MarkupCompile.cache
+D:\programming\Csharp\WPF Rewind 2018\RepeatButton\obj\Debug\RepeatButton_MarkupCompile.lref
+D:\programming\Csharp\WPF Rewind 2018\RepeatButton\obj\Debug\MainWindow.baml
+D:\programming\Csharp\WPF Rewind 2018\RepeatButton\obj\Debug\RepeatButton.g.resources
+D:\programming\Csharp\WPF Rewind 2018\RepeatButton\obj\Debug\RepeatButton.Properties.Resources.resources
+D:\programming\Csharp\WPF Rewind 2018\RepeatButton\obj\Debug\RepeatButton.csproj.GenerateResource.Cache
+D:\programming\Csharp\WPF Rewind 2018\RepeatButton\obj\Debug\RepeatButton.csproj.CoreCompileInputs.cache
+D:\programming\Csharp\WPF Rewind 2018\RepeatButton\obj\Debug\RepeatButton.exe
+D:\programming\Csharp\WPF Rewind 2018\RepeatButton\obj\Debug\RepeatButton.pdb

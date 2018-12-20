@@ -1,0 +1,15 @@
+D:\programming\Csharp\WPF Rewind 2018\ButtonDefaultAndCancel\bin\Debug\ButtonDefaultAndCancel.exe.config
+D:\programming\Csharp\WPF Rewind 2018\ButtonDefaultAndCancel\bin\Debug\ButtonDefaultAndCancel.exe
+D:\programming\Csharp\WPF Rewind 2018\ButtonDefaultAndCancel\bin\Debug\ButtonDefaultAndCancel.pdb
+D:\programming\Csharp\WPF Rewind 2018\ButtonDefaultAndCancel\obj\Debug\ButtonDefaultAndCancel.csprojResolveAssemblyReference.cache
+D:\programming\Csharp\WPF Rewind 2018\ButtonDefaultAndCancel\obj\Debug\MainWindow.g.cs
+D:\programming\Csharp\WPF Rewind 2018\ButtonDefaultAndCancel\obj\Debug\App.g.cs
+D:\programming\Csharp\WPF Rewind 2018\ButtonDefaultAndCancel\obj\Debug\ButtonDefaultAndCancel_MarkupCompile.cache
+D:\programming\Csharp\WPF Rewind 2018\ButtonDefaultAndCancel\obj\Debug\ButtonDefaultAndCancel_MarkupCompile.lref
+D:\programming\Csharp\WPF Rewind 2018\ButtonDefaultAndCancel\obj\Debug\MainWindow.baml
+D:\programming\Csharp\WPF Rewind 2018\ButtonDefaultAndCancel\obj\Debug\ButtonDefaultAndCancel.g.resources
+D:\programming\Csharp\WPF Rewind 2018\ButtonDefaultAndCancel\obj\Debug\ButtonDefaultAndCancel.Properties.Resources.resources
+D:\programming\Csharp\WPF Rewind 2018\ButtonDefaultAndCancel\obj\Debug\ButtonDefaultAndCancel.csproj.GenerateResource.Cache
+D:\programming\Csharp\WPF Rewind 2018\ButtonDefaultAndCancel\obj\Debug\ButtonDefaultAndCancel.csproj.CoreCompileInputs.cache
+D:\programming\Csharp\WPF Rewind 2018\ButtonDefaultAndCancel\obj\Debug\ButtonDefaultAndCancel.exe
+D:\programming\Csharp\WPF Rewind 2018\ButtonDefaultAndCancel\obj\Debug\ButtonDefaultAndCancel.pdb

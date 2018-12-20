@@ -1,0 +1,40 @@
+﻿<Window x:Class="RichTextBox2Rewind.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RichTextBox2Rewind"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <RichTextBox Padding="10" 
+                     HorizontalScrollBarVisibility="Auto" 
+                     VerticalScrollBarVisibility="Auto">
+            <RichTextBox.Document>
+                <FlowDocument>
+                    <Paragraph>
+                        An old queen, whose husband had been dead some years, had a beautiful
+                    daughter. When she grew up, she was betrothed to a prince who lived a
+                    great way off; and as the time drew near for her to be married, she got
+                    ready to set off on her journey to his country. Then the queen, her
+                    mother, packed up a great many costly things--jewels, and gold, and
+                    silver, trinkets, fine dresses, and in short, everything that became a
+                    royal bride; for she loved her child very dearly; and she gave her a
+                    waiting-maid to ride with her, and give her into the bridegroom's hands;
+                    and each had a horse for the journey. Now the princess' horse was called
+                    Falada, and could speak.
+                    </Paragraph>
+                    <Paragraph>
+                        When the time came for them to set out, the old queen went into her
+                    bed-chamber, and took a little knife, and cut off a lock of her hair,
+                    and gave it to her daughter, saying, "Take care of it, dear child; for
+                    it is a charm that may be of use to you on the road." Then they took a
+                    sorrowful leave of each other, and the princess put the lock of her
+                    mother's hair into her bosom, got upon her horse, and set off on her
+                    journey to her bridegroom's kingdom.
+                    </Paragraph>
+                </FlowDocument>
+            </RichTextBox.Document>
+        </RichTextBox>
+    </Grid>
+</Window>

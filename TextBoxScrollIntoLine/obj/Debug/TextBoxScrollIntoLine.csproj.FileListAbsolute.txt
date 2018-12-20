@@ -1,0 +1,15 @@
+D:\programming\Csharp\WPF Rewind 2018\TextBoxScrollIntoLine\bin\Debug\TextBoxScrollIntoLine.exe.config
+D:\programming\Csharp\WPF Rewind 2018\TextBoxScrollIntoLine\bin\Debug\TextBoxScrollIntoLine.exe
+D:\programming\Csharp\WPF Rewind 2018\TextBoxScrollIntoLine\bin\Debug\TextBoxScrollIntoLine.pdb
+D:\programming\Csharp\WPF Rewind 2018\TextBoxScrollIntoLine\obj\Debug\TextBoxScrollIntoLine.csprojResolveAssemblyReference.cache
+D:\programming\Csharp\WPF Rewind 2018\TextBoxScrollIntoLine\obj\Debug\MainWindow.g.cs
+D:\programming\Csharp\WPF Rewind 2018\TextBoxScrollIntoLine\obj\Debug\App.g.cs
+D:\programming\Csharp\WPF Rewind 2018\TextBoxScrollIntoLine\obj\Debug\TextBoxScrollIntoLine_MarkupCompile.cache
+D:\programming\Csharp\WPF Rewind 2018\TextBoxScrollIntoLine\obj\Debug\TextBoxScrollIntoLine_MarkupCompile.lref
+D:\programming\Csharp\WPF Rewind 2018\TextBoxScrollIntoLine\obj\Debug\MainWindow.baml
+D:\programming\Csharp\WPF Rewind 2018\TextBoxScrollIntoLine\obj\Debug\TextBoxScrollIntoLine.g.resources
+D:\programming\Csharp\WPF Rewind 2018\TextBoxScrollIntoLine\obj\Debug\TextBoxScrollIntoLine.Properties.Resources.resources
+D:\programming\Csharp\WPF Rewind 2018\TextBoxScrollIntoLine\obj\Debug\TextBoxScrollIntoLine.csproj.GenerateResource.Cache
+D:\programming\Csharp\WPF Rewind 2018\TextBoxScrollIntoLine\obj\Debug\TextBoxScrollIntoLine.csproj.CoreCompileInputs.cache
+D:\programming\Csharp\WPF Rewind 2018\TextBoxScrollIntoLine\obj\Debug\TextBoxScrollIntoLine.exe
+D:\programming\Csharp\WPF Rewind 2018\TextBoxScrollIntoLine\obj\Debug\TextBoxScrollIntoLine.pdb
