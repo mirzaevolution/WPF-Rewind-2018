@@ -1,0 +1,15 @@
+D:\programming\Csharp\WPF Rewind 2018\TabControlRewind\bin\Debug\TabControlRewind.exe.config
+D:\programming\Csharp\WPF Rewind 2018\TabControlRewind\bin\Debug\TabControlRewind.exe
+D:\programming\Csharp\WPF Rewind 2018\TabControlRewind\bin\Debug\TabControlRewind.pdb
+D:\programming\Csharp\WPF Rewind 2018\TabControlRewind\obj\Debug\TabControlRewind.csprojResolveAssemblyReference.cache
+D:\programming\Csharp\WPF Rewind 2018\TabControlRewind\obj\Debug\MainWindow.g.cs
+D:\programming\Csharp\WPF Rewind 2018\TabControlRewind\obj\Debug\App.g.cs
+D:\programming\Csharp\WPF Rewind 2018\TabControlRewind\obj\Debug\TabControlRewind_MarkupCompile.cache
+D:\programming\Csharp\WPF Rewind 2018\TabControlRewind\obj\Debug\TabControlRewind_MarkupCompile.lref
+D:\programming\Csharp\WPF Rewind 2018\TabControlRewind\obj\Debug\MainWindow.baml
+D:\programming\Csharp\WPF Rewind 2018\TabControlRewind\obj\Debug\TabControlRewind.g.resources
+D:\programming\Csharp\WPF Rewind 2018\TabControlRewind\obj\Debug\TabControlRewind.Properties.Resources.resources
+D:\programming\Csharp\WPF Rewind 2018\TabControlRewind\obj\Debug\TabControlRewind.csproj.GenerateResource.Cache
+D:\programming\Csharp\WPF Rewind 2018\TabControlRewind\obj\Debug\TabControlRewind.csproj.CoreCompileInputs.cache
+D:\programming\Csharp\WPF Rewind 2018\TabControlRewind\obj\Debug\TabControlRewind.exe
+D:\programming\Csharp\WPF Rewind 2018\TabControlRewind\obj\Debug\TabControlRewind.pdb

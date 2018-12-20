@@ -1,0 +1,15 @@
+D:\programming\Csharp\WPF Rewind 2018\DispatcherObjectRewind\obj\Debug\MainWindow.g.cs
+D:\programming\Csharp\WPF Rewind 2018\DispatcherObjectRewind\obj\Debug\App.g.cs
+D:\programming\Csharp\WPF Rewind 2018\DispatcherObjectRewind\obj\Debug\DispatcherObjectRewind_MarkupCompile.cache
+D:\programming\Csharp\WPF Rewind 2018\DispatcherObjectRewind\obj\Debug\DispatcherObjectRewind_MarkupCompile.lref
+D:\programming\Csharp\WPF Rewind 2018\DispatcherObjectRewind\bin\Debug\DispatcherObjectRewind.exe.config
+D:\programming\Csharp\WPF Rewind 2018\DispatcherObjectRewind\bin\Debug\DispatcherObjectRewind.exe
+D:\programming\Csharp\WPF Rewind 2018\DispatcherObjectRewind\bin\Debug\DispatcherObjectRewind.pdb
+D:\programming\Csharp\WPF Rewind 2018\DispatcherObjectRewind\obj\Debug\MainWindow.baml
+D:\programming\Csharp\WPF Rewind 2018\DispatcherObjectRewind\obj\Debug\DispatcherObjectRewind.g.resources
+D:\programming\Csharp\WPF Rewind 2018\DispatcherObjectRewind\obj\Debug\DispatcherObjectRewind.Properties.Resources.resources
+D:\programming\Csharp\WPF Rewind 2018\DispatcherObjectRewind\obj\Debug\DispatcherObjectRewind.csproj.GenerateResource.Cache
+D:\programming\Csharp\WPF Rewind 2018\DispatcherObjectRewind\obj\Debug\DispatcherObjectRewind.csproj.CoreCompileInputs.cache
+D:\programming\Csharp\WPF Rewind 2018\DispatcherObjectRewind\obj\Debug\DispatcherObjectRewind.exe
+D:\programming\Csharp\WPF Rewind 2018\DispatcherObjectRewind\obj\Debug\DispatcherObjectRewind.pdb
+D:\programming\Csharp\WPF Rewind 2018\DispatcherObjectRewind\obj\Debug\DispatcherObjectRewind.csprojResolveAssemblyReference.cache
