@@ -1,0 +1,34 @@
+﻿<Window x:Class="BrintIntoViewMethod.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BrintIntoViewMethod"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="233.6" Width="305.4">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <WrapPanel Orientation="Horizontal" Margin="4" HorizontalAlignment="Center" >
+            <Button Name="ButtonTop" Content="Top" Margin="4" Width="80" Height="25" Click="ButtonTopClickHandler"/>
+            <Button Name="ButtonMiddle" Content="Middle" Margin="4" Width="80" Height="25" Click="ButtonMiddleClickHandler"/>
+            <Button Name="ButtonBottom" Content="Bottom" Margin="4" Width="80" Height="25" Click="ButtonBottomClickHandler"/>
+        </WrapPanel>
+        <ScrollViewer Margin="4" BorderBrush="Black" BorderThickness="1.3" Grid.Row="1"
+                      VerticalScrollBarVisibility="Auto">
+            <StackPanel>
+                <Border Name="BorderTop" Height="150" Background="Red" Margin="3">
+                    <TextBlock Text="Border Top" Foreground="White" FontSize="20" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </Border>
+                <Border Name="BorderMiddle" Height="150" Background="Lime" Margin="3">
+                    <TextBlock Text="Border Middle" Foreground="White" FontSize="20" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </Border>
+                <Border Name="BorderBottom" Height="150" Background="RoyalBlue" Margin="3">
+                    <TextBlock Text="Border Bottom" Foreground="White" FontSize="20" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </Border>
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</Window>

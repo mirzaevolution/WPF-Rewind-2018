@@ -1,0 +1,13 @@
+D:\Programming\WPF Rewind\WPF-Rewind-2018\GridSplitterRewind\bin\Debug\GridSplitterRewind.exe.config
+D:\Programming\WPF Rewind\WPF-Rewind-2018\GridSplitterRewind\bin\Debug\GridSplitterRewind.exe
+D:\Programming\WPF Rewind\WPF-Rewind-2018\GridSplitterRewind\bin\Debug\GridSplitterRewind.pdb
+D:\Programming\WPF Rewind\WPF-Rewind-2018\GridSplitterRewind\obj\Debug\MainWindow.g.cs
+D:\Programming\WPF Rewind\WPF-Rewind-2018\GridSplitterRewind\obj\Debug\App.g.cs
+D:\Programming\WPF Rewind\WPF-Rewind-2018\GridSplitterRewind\obj\Debug\GridSplitterRewind_MarkupCompile.cache
+D:\Programming\WPF Rewind\WPF-Rewind-2018\GridSplitterRewind\obj\Debug\GridSplitterRewind_MarkupCompile.lref
+D:\Programming\WPF Rewind\WPF-Rewind-2018\GridSplitterRewind\obj\Debug\MainWindow.baml
+D:\Programming\WPF Rewind\WPF-Rewind-2018\GridSplitterRewind\obj\Debug\GridSplitterRewind.g.resources
+D:\Programming\WPF Rewind\WPF-Rewind-2018\GridSplitterRewind\obj\Debug\GridSplitterRewind.Properties.Resources.resources
+D:\Programming\WPF Rewind\WPF-Rewind-2018\GridSplitterRewind\obj\Debug\GridSplitterRewind.csproj.GenerateResource.Cache
+D:\Programming\WPF Rewind\WPF-Rewind-2018\GridSplitterRewind\obj\Debug\GridSplitterRewind.exe
+D:\Programming\WPF Rewind\WPF-Rewind-2018\GridSplitterRewind\obj\Debug\GridSplitterRewind.pdb
