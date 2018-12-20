@@ -1,0 +1,13 @@
+D:\Programming\WPF Rewind\WPF-Rewind-2018\LabelAccessKeysRewind\bin\Debug\LabelAccessKeysRewind.exe.config
+D:\Programming\WPF Rewind\WPF-Rewind-2018\LabelAccessKeysRewind\bin\Debug\LabelAccessKeysRewind.exe
+D:\Programming\WPF Rewind\WPF-Rewind-2018\LabelAccessKeysRewind\bin\Debug\LabelAccessKeysRewind.pdb
+D:\Programming\WPF Rewind\WPF-Rewind-2018\LabelAccessKeysRewind\obj\Debug\MainWindow.g.cs
+D:\Programming\WPF Rewind\WPF-Rewind-2018\LabelAccessKeysRewind\obj\Debug\App.g.cs
+D:\Programming\WPF Rewind\WPF-Rewind-2018\LabelAccessKeysRewind\obj\Debug\LabelAccessKeysRewind_MarkupCompile.cache
+D:\Programming\WPF Rewind\WPF-Rewind-2018\LabelAccessKeysRewind\obj\Debug\LabelAccessKeysRewind_MarkupCompile.lref
+D:\Programming\WPF Rewind\WPF-Rewind-2018\LabelAccessKeysRewind\obj\Debug\MainWindow.baml
+D:\Programming\WPF Rewind\WPF-Rewind-2018\LabelAccessKeysRewind\obj\Debug\LabelAccessKeysRewind.g.resources
+D:\Programming\WPF Rewind\WPF-Rewind-2018\LabelAccessKeysRewind\obj\Debug\LabelAccessKeysRewind.Properties.Resources.resources
+D:\Programming\WPF Rewind\WPF-Rewind-2018\LabelAccessKeysRewind\obj\Debug\LabelAccessKeysRewind.csproj.GenerateResource.Cache
+D:\Programming\WPF Rewind\WPF-Rewind-2018\LabelAccessKeysRewind\obj\Debug\LabelAccessKeysRewind.exe
+D:\Programming\WPF Rewind\WPF-Rewind-2018\LabelAccessKeysRewind\obj\Debug\LabelAccessKeysRewind.pdb

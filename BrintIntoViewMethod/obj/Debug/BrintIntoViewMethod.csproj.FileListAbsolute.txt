@@ -1,0 +1,14 @@
+D:\Programming\WPF Rewind\WPF-Rewind-2018\BrintIntoViewMethod\bin\Debug\BrintIntoViewMethod.exe.config
+D:\Programming\WPF Rewind\WPF-Rewind-2018\BrintIntoViewMethod\bin\Debug\BrintIntoViewMethod.exe
+D:\Programming\WPF Rewind\WPF-Rewind-2018\BrintIntoViewMethod\bin\Debug\BrintIntoViewMethod.pdb
+D:\Programming\WPF Rewind\WPF-Rewind-2018\BrintIntoViewMethod\obj\Debug\BrintIntoViewMethod.csprojResolveAssemblyReference.cache
+D:\Programming\WPF Rewind\WPF-Rewind-2018\BrintIntoViewMethod\obj\Debug\MainWindow.g.cs
+D:\Programming\WPF Rewind\WPF-Rewind-2018\BrintIntoViewMethod\obj\Debug\App.g.cs
+D:\Programming\WPF Rewind\WPF-Rewind-2018\BrintIntoViewMethod\obj\Debug\BrintIntoViewMethod_MarkupCompile.cache
+D:\Programming\WPF Rewind\WPF-Rewind-2018\BrintIntoViewMethod\obj\Debug\BrintIntoViewMethod_MarkupCompile.lref
+D:\Programming\WPF Rewind\WPF-Rewind-2018\BrintIntoViewMethod\obj\Debug\MainWindow.baml
+D:\Programming\WPF Rewind\WPF-Rewind-2018\BrintIntoViewMethod\obj\Debug\BrintIntoViewMethod.g.resources
+D:\Programming\WPF Rewind\WPF-Rewind-2018\BrintIntoViewMethod\obj\Debug\BrintIntoViewMethod.Properties.Resources.resources
+D:\Programming\WPF Rewind\WPF-Rewind-2018\BrintIntoViewMethod\obj\Debug\BrintIntoViewMethod.csproj.GenerateResource.Cache
+D:\Programming\WPF Rewind\WPF-Rewind-2018\BrintIntoViewMethod\obj\Debug\BrintIntoViewMethod.exe
+D:\Programming\WPF Rewind\WPF-Rewind-2018\BrintIntoViewMethod\obj\Debug\BrintIntoViewMethod.pdb

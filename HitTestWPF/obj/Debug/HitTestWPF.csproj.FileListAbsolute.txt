@@ -1,0 +1,14 @@
+D:\Programming\WPF Rewind\WPF-Rewind-2018\HitTestWPF\bin\Debug\HitTestWPF.exe.config
+D:\Programming\WPF Rewind\WPF-Rewind-2018\HitTestWPF\bin\Debug\HitTestWPF.exe
+D:\Programming\WPF Rewind\WPF-Rewind-2018\HitTestWPF\bin\Debug\HitTestWPF.pdb
+D:\Programming\WPF Rewind\WPF-Rewind-2018\HitTestWPF\obj\Debug\HitTestWPF.csprojResolveAssemblyReference.cache
+D:\Programming\WPF Rewind\WPF-Rewind-2018\HitTestWPF\obj\Debug\MainWindow.g.cs
+D:\Programming\WPF Rewind\WPF-Rewind-2018\HitTestWPF\obj\Debug\App.g.cs
+D:\Programming\WPF Rewind\WPF-Rewind-2018\HitTestWPF\obj\Debug\HitTestWPF_MarkupCompile.cache
+D:\Programming\WPF Rewind\WPF-Rewind-2018\HitTestWPF\obj\Debug\HitTestWPF_MarkupCompile.lref
+D:\Programming\WPF Rewind\WPF-Rewind-2018\HitTestWPF\obj\Debug\MainWindow.baml
+D:\Programming\WPF Rewind\WPF-Rewind-2018\HitTestWPF\obj\Debug\HitTestWPF.g.resources
+D:\Programming\WPF Rewind\WPF-Rewind-2018\HitTestWPF\obj\Debug\HitTestWPF.Properties.Resources.resources
+D:\Programming\WPF Rewind\WPF-Rewind-2018\HitTestWPF\obj\Debug\HitTestWPF.csproj.GenerateResource.Cache
+D:\Programming\WPF Rewind\WPF-Rewind-2018\HitTestWPF\obj\Debug\HitTestWPF.exe
+D:\Programming\WPF Rewind\WPF-Rewind-2018\HitTestWPF\obj\Debug\HitTestWPF.pdb
