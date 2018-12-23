@@ -1,0 +1,15 @@
+D:\programming\Csharp\WPF Rewind 2018\RelativeBindingBasic\bin\Debug\RelativeBindingBasic.exe.config
+D:\programming\Csharp\WPF Rewind 2018\RelativeBindingBasic\bin\Debug\RelativeBindingBasic.exe
+D:\programming\Csharp\WPF Rewind 2018\RelativeBindingBasic\bin\Debug\RelativeBindingBasic.pdb
+D:\programming\Csharp\WPF Rewind 2018\RelativeBindingBasic\obj\Debug\RelativeBindingBasic.csprojResolveAssemblyReference.cache
+D:\programming\Csharp\WPF Rewind 2018\RelativeBindingBasic\obj\Debug\MainWindow.g.cs
+D:\programming\Csharp\WPF Rewind 2018\RelativeBindingBasic\obj\Debug\App.g.cs
+D:\programming\Csharp\WPF Rewind 2018\RelativeBindingBasic\obj\Debug\RelativeBindingBasic_MarkupCompile.cache
+D:\programming\Csharp\WPF Rewind 2018\RelativeBindingBasic\obj\Debug\RelativeBindingBasic_MarkupCompile.lref
+D:\programming\Csharp\WPF Rewind 2018\RelativeBindingBasic\obj\Debug\MainWindow.baml
+D:\programming\Csharp\WPF Rewind 2018\RelativeBindingBasic\obj\Debug\RelativeBindingBasic.g.resources
+D:\programming\Csharp\WPF Rewind 2018\RelativeBindingBasic\obj\Debug\RelativeBindingBasic.Properties.Resources.resources
+D:\programming\Csharp\WPF Rewind 2018\RelativeBindingBasic\obj\Debug\RelativeBindingBasic.csproj.GenerateResource.Cache
+D:\programming\Csharp\WPF Rewind 2018\RelativeBindingBasic\obj\Debug\RelativeBindingBasic.csproj.CoreCompileInputs.cache
+D:\programming\Csharp\WPF Rewind 2018\RelativeBindingBasic\obj\Debug\RelativeBindingBasic.exe
+D:\programming\Csharp\WPF Rewind 2018\RelativeBindingBasic\obj\Debug\RelativeBindingBasic.pdb

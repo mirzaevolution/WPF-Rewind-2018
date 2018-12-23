@@ -1,0 +1,14 @@
+D:\programming\Csharp\WPF Rewind 2018\StringFormatBinding\bin\Debug\StringFormatBinding.exe.config
+D:\programming\Csharp\WPF Rewind 2018\StringFormatBinding\bin\Debug\StringFormatBinding.exe
+D:\programming\Csharp\WPF Rewind 2018\StringFormatBinding\bin\Debug\StringFormatBinding.pdb
+D:\programming\Csharp\WPF Rewind 2018\StringFormatBinding\obj\Debug\MainWindow.g.cs
+D:\programming\Csharp\WPF Rewind 2018\StringFormatBinding\obj\Debug\App.g.cs
+D:\programming\Csharp\WPF Rewind 2018\StringFormatBinding\obj\Debug\StringFormatBinding_MarkupCompile.cache
+D:\programming\Csharp\WPF Rewind 2018\StringFormatBinding\obj\Debug\StringFormatBinding_MarkupCompile.lref
+D:\programming\Csharp\WPF Rewind 2018\StringFormatBinding\obj\Debug\MainWindow.baml
+D:\programming\Csharp\WPF Rewind 2018\StringFormatBinding\obj\Debug\StringFormatBinding.g.resources
+D:\programming\Csharp\WPF Rewind 2018\StringFormatBinding\obj\Debug\StringFormatBinding.Properties.Resources.resources
+D:\programming\Csharp\WPF Rewind 2018\StringFormatBinding\obj\Debug\StringFormatBinding.csproj.GenerateResource.Cache
+D:\programming\Csharp\WPF Rewind 2018\StringFormatBinding\obj\Debug\StringFormatBinding.csproj.CoreCompileInputs.cache
+D:\programming\Csharp\WPF Rewind 2018\StringFormatBinding\obj\Debug\StringFormatBinding.exe
+D:\programming\Csharp\WPF Rewind 2018\StringFormatBinding\obj\Debug\StringFormatBinding.pdb

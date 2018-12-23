@@ -1,0 +1,15 @@
+D:\programming\Csharp\WPF Rewind 2018\SliderRewind\bin\Debug\SliderRewind.exe.config
+D:\programming\Csharp\WPF Rewind 2018\SliderRewind\bin\Debug\SliderRewind.exe
+D:\programming\Csharp\WPF Rewind 2018\SliderRewind\bin\Debug\SliderRewind.pdb
+D:\programming\Csharp\WPF Rewind 2018\SliderRewind\obj\Debug\SliderRewind.csprojResolveAssemblyReference.cache
+D:\programming\Csharp\WPF Rewind 2018\SliderRewind\obj\Debug\MainWindow.g.cs
+D:\programming\Csharp\WPF Rewind 2018\SliderRewind\obj\Debug\App.g.cs
+D:\programming\Csharp\WPF Rewind 2018\SliderRewind\obj\Debug\SliderRewind_MarkupCompile.cache
+D:\programming\Csharp\WPF Rewind 2018\SliderRewind\obj\Debug\SliderRewind_MarkupCompile.lref
+D:\programming\Csharp\WPF Rewind 2018\SliderRewind\obj\Debug\MainWindow.baml
+D:\programming\Csharp\WPF Rewind 2018\SliderRewind\obj\Debug\SliderRewind.g.resources
+D:\programming\Csharp\WPF Rewind 2018\SliderRewind\obj\Debug\SliderRewind.Properties.Resources.resources
+D:\programming\Csharp\WPF Rewind 2018\SliderRewind\obj\Debug\SliderRewind.csproj.GenerateResource.Cache
+D:\programming\Csharp\WPF Rewind 2018\SliderRewind\obj\Debug\SliderRewind.csproj.CoreCompileInputs.cache
+D:\programming\Csharp\WPF Rewind 2018\SliderRewind\obj\Debug\SliderRewind.exe
+D:\programming\Csharp\WPF Rewind 2018\SliderRewind\obj\Debug\SliderRewind.pdb

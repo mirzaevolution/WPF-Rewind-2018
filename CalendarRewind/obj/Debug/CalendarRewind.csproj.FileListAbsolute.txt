@@ -1,0 +1,15 @@
+D:\programming\Csharp\WPF Rewind 2018\CalendarRewind\bin\Debug\CalendarRewind.exe.config
+D:\programming\Csharp\WPF Rewind 2018\CalendarRewind\bin\Debug\CalendarRewind.exe
+D:\programming\Csharp\WPF Rewind 2018\CalendarRewind\bin\Debug\CalendarRewind.pdb
+D:\programming\Csharp\WPF Rewind 2018\CalendarRewind\obj\Debug\CalendarRewind.csprojResolveAssemblyReference.cache
+D:\programming\Csharp\WPF Rewind 2018\CalendarRewind\obj\Debug\MainWindow.g.cs
+D:\programming\Csharp\WPF Rewind 2018\CalendarRewind\obj\Debug\App.g.cs
+D:\programming\Csharp\WPF Rewind 2018\CalendarRewind\obj\Debug\CalendarRewind_MarkupCompile.cache
+D:\programming\Csharp\WPF Rewind 2018\CalendarRewind\obj\Debug\CalendarRewind_MarkupCompile.lref
+D:\programming\Csharp\WPF Rewind 2018\CalendarRewind\obj\Debug\MainWindow.baml
+D:\programming\Csharp\WPF Rewind 2018\CalendarRewind\obj\Debug\CalendarRewind.g.resources
+D:\programming\Csharp\WPF Rewind 2018\CalendarRewind\obj\Debug\CalendarRewind.Properties.Resources.resources
+D:\programming\Csharp\WPF Rewind 2018\CalendarRewind\obj\Debug\CalendarRewind.csproj.GenerateResource.Cache
+D:\programming\Csharp\WPF Rewind 2018\CalendarRewind\obj\Debug\CalendarRewind.csproj.CoreCompileInputs.cache
+D:\programming\Csharp\WPF Rewind 2018\CalendarRewind\obj\Debug\CalendarRewind.exe
+D:\programming\Csharp\WPF Rewind 2018\CalendarRewind\obj\Debug\CalendarRewind.pdb

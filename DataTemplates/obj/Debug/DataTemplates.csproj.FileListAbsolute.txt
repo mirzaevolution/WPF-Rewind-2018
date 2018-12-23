@@ -1,0 +1,15 @@
+D:\programming\Csharp\WPF Rewind 2018\DataTemplates\bin\Debug\DataTemplates.exe.config
+D:\programming\Csharp\WPF Rewind 2018\DataTemplates\bin\Debug\DataTemplates.exe
+D:\programming\Csharp\WPF Rewind 2018\DataTemplates\bin\Debug\DataTemplates.pdb
+D:\programming\Csharp\WPF Rewind 2018\DataTemplates\obj\Debug\DataTemplates.csprojResolveAssemblyReference.cache
+D:\programming\Csharp\WPF Rewind 2018\DataTemplates\obj\Debug\MainWindow.g.cs
+D:\programming\Csharp\WPF Rewind 2018\DataTemplates\obj\Debug\App.g.cs
+D:\programming\Csharp\WPF Rewind 2018\DataTemplates\obj\Debug\DataTemplates_MarkupCompile.cache
+D:\programming\Csharp\WPF Rewind 2018\DataTemplates\obj\Debug\DataTemplates_MarkupCompile.lref
+D:\programming\Csharp\WPF Rewind 2018\DataTemplates\obj\Debug\MainWindow.baml
+D:\programming\Csharp\WPF Rewind 2018\DataTemplates\obj\Debug\DataTemplates.g.resources
+D:\programming\Csharp\WPF Rewind 2018\DataTemplates\obj\Debug\DataTemplates.Properties.Resources.resources
+D:\programming\Csharp\WPF Rewind 2018\DataTemplates\obj\Debug\DataTemplates.csproj.GenerateResource.Cache
+D:\programming\Csharp\WPF Rewind 2018\DataTemplates\obj\Debug\DataTemplates.csproj.CoreCompileInputs.cache
+D:\programming\Csharp\WPF Rewind 2018\DataTemplates\obj\Debug\DataTemplates.exe
+D:\programming\Csharp\WPF Rewind 2018\DataTemplates\obj\Debug\DataTemplates.pdb

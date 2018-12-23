@@ -1,0 +1,15 @@
+D:\programming\Csharp\WPF Rewind 2018\FallbackValue\bin\Debug\FallbackValue.exe.config
+D:\programming\Csharp\WPF Rewind 2018\FallbackValue\bin\Debug\FallbackValue.exe
+D:\programming\Csharp\WPF Rewind 2018\FallbackValue\bin\Debug\FallbackValue.pdb
+D:\programming\Csharp\WPF Rewind 2018\FallbackValue\obj\Debug\FallbackValue.csprojResolveAssemblyReference.cache
+D:\programming\Csharp\WPF Rewind 2018\FallbackValue\obj\Debug\MainWindow.g.cs
+D:\programming\Csharp\WPF Rewind 2018\FallbackValue\obj\Debug\App.g.cs
+D:\programming\Csharp\WPF Rewind 2018\FallbackValue\obj\Debug\FallbackValue_MarkupCompile.cache
+D:\programming\Csharp\WPF Rewind 2018\FallbackValue\obj\Debug\FallbackValue_MarkupCompile.lref
+D:\programming\Csharp\WPF Rewind 2018\FallbackValue\obj\Debug\MainWindow.baml
+D:\programming\Csharp\WPF Rewind 2018\FallbackValue\obj\Debug\FallbackValue.g.resources
+D:\programming\Csharp\WPF Rewind 2018\FallbackValue\obj\Debug\FallbackValue.Properties.Resources.resources
+D:\programming\Csharp\WPF Rewind 2018\FallbackValue\obj\Debug\FallbackValue.csproj.GenerateResource.Cache
+D:\programming\Csharp\WPF Rewind 2018\FallbackValue\obj\Debug\FallbackValue.csproj.CoreCompileInputs.cache
+D:\programming\Csharp\WPF Rewind 2018\FallbackValue\obj\Debug\FallbackValue.exe
+D:\programming\Csharp\WPF Rewind 2018\FallbackValue\obj\Debug\FallbackValue.pdb

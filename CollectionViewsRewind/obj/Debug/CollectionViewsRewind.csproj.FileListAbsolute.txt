@@ -1,0 +1,16 @@
+D:\programming\Csharp\WPF Rewind 2018\CollectionViewsRewind\bin\Debug\CollectionViewsRewind.exe.config
+D:\programming\Csharp\WPF Rewind 2018\CollectionViewsRewind\bin\Debug\CollectionViewsRewind.exe
+D:\programming\Csharp\WPF Rewind 2018\CollectionViewsRewind\bin\Debug\CollectionViewsRewind.pdb
+D:\programming\Csharp\WPF Rewind 2018\CollectionViewsRewind\obj\Debug\CollectionViewsRewind.csprojResolveAssemblyReference.cache
+D:\programming\Csharp\WPF Rewind 2018\CollectionViewsRewind\obj\Debug\MainWindow.g.cs
+D:\programming\Csharp\WPF Rewind 2018\CollectionViewsRewind\obj\Debug\App.g.cs
+D:\programming\Csharp\WPF Rewind 2018\CollectionViewsRewind\obj\Debug\CollectionViewsRewind_MarkupCompile.cache
+D:\programming\Csharp\WPF Rewind 2018\CollectionViewsRewind\obj\Debug\CollectionViewsRewind_MarkupCompile.lref
+D:\programming\Csharp\WPF Rewind 2018\CollectionViewsRewind\obj\Debug\MainWindow.baml
+D:\programming\Csharp\WPF Rewind 2018\CollectionViewsRewind\obj\Debug\CollectionViewsRewind.g.resources
+D:\programming\Csharp\WPF Rewind 2018\CollectionViewsRewind\obj\Debug\CollectionViewsRewind.Properties.Resources.resources
+D:\programming\Csharp\WPF Rewind 2018\CollectionViewsRewind\obj\Debug\CollectionViewsRewind.csproj.GenerateResource.Cache
+D:\programming\Csharp\WPF Rewind 2018\CollectionViewsRewind\obj\Debug\CollectionViewsRewind.csproj.CoreCompileInputs.cache
+D:\programming\Csharp\WPF Rewind 2018\CollectionViewsRewind\obj\Debug\CollectionViewsRewind.exe
+D:\programming\Csharp\WPF Rewind 2018\CollectionViewsRewind\obj\Debug\CollectionViewsRewind.pdb
+D:\programming\Csharp\WPF Rewind 2018\CollectionViewsRewind\obj\Debug\GeneratedInternalTypeHelper.g.cs

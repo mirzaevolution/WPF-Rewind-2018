@@ -1,0 +1,15 @@
+D:\programming\Csharp\WPF Rewind 2018\ItemSourceRewind\bin\Debug\ItemSourceRewind.exe.config
+D:\programming\Csharp\WPF Rewind 2018\ItemSourceRewind\bin\Debug\ItemSourceRewind.exe
+D:\programming\Csharp\WPF Rewind 2018\ItemSourceRewind\bin\Debug\ItemSourceRewind.pdb
+D:\programming\Csharp\WPF Rewind 2018\ItemSourceRewind\obj\Debug\MainWindow.g.cs
+D:\programming\Csharp\WPF Rewind 2018\ItemSourceRewind\obj\Debug\App.g.cs
+D:\programming\Csharp\WPF Rewind 2018\ItemSourceRewind\obj\Debug\ItemSourceRewind_MarkupCompile.cache
+D:\programming\Csharp\WPF Rewind 2018\ItemSourceRewind\obj\Debug\ItemSourceRewind_MarkupCompile.lref
+D:\programming\Csharp\WPF Rewind 2018\ItemSourceRewind\obj\Debug\MainWindow.baml
+D:\programming\Csharp\WPF Rewind 2018\ItemSourceRewind\obj\Debug\ItemSourceRewind.g.resources
+D:\programming\Csharp\WPF Rewind 2018\ItemSourceRewind\obj\Debug\ItemSourceRewind.Properties.Resources.resources
+D:\programming\Csharp\WPF Rewind 2018\ItemSourceRewind\obj\Debug\ItemSourceRewind.csproj.GenerateResource.Cache
+D:\programming\Csharp\WPF Rewind 2018\ItemSourceRewind\obj\Debug\ItemSourceRewind.csproj.CoreCompileInputs.cache
+D:\programming\Csharp\WPF Rewind 2018\ItemSourceRewind\obj\Debug\ItemSourceRewind.exe
+D:\programming\Csharp\WPF Rewind 2018\ItemSourceRewind\obj\Debug\ItemSourceRewind.pdb
+D:\programming\Csharp\WPF Rewind 2018\ItemSourceRewind\obj\Debug\GeneratedInternalTypeHelper.g.cs

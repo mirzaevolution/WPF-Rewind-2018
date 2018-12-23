@@ -1,0 +1,15 @@
+D:\programming\Csharp\WPF Rewind 2018\AsyncBinding\bin\Debug\AsyncBinding.exe.config
+D:\programming\Csharp\WPF Rewind 2018\AsyncBinding\bin\Debug\AsyncBinding.exe
+D:\programming\Csharp\WPF Rewind 2018\AsyncBinding\bin\Debug\AsyncBinding.pdb
+D:\programming\Csharp\WPF Rewind 2018\AsyncBinding\obj\Debug\AsyncBinding.csprojResolveAssemblyReference.cache
+D:\programming\Csharp\WPF Rewind 2018\AsyncBinding\obj\Debug\MainWindow.g.cs
+D:\programming\Csharp\WPF Rewind 2018\AsyncBinding\obj\Debug\App.g.cs
+D:\programming\Csharp\WPF Rewind 2018\AsyncBinding\obj\Debug\AsyncBinding_MarkupCompile.cache
+D:\programming\Csharp\WPF Rewind 2018\AsyncBinding\obj\Debug\AsyncBinding_MarkupCompile.lref
+D:\programming\Csharp\WPF Rewind 2018\AsyncBinding\obj\Debug\MainWindow.baml
+D:\programming\Csharp\WPF Rewind 2018\AsyncBinding\obj\Debug\AsyncBinding.g.resources
+D:\programming\Csharp\WPF Rewind 2018\AsyncBinding\obj\Debug\AsyncBinding.Properties.Resources.resources
+D:\programming\Csharp\WPF Rewind 2018\AsyncBinding\obj\Debug\AsyncBinding.csproj.GenerateResource.Cache
+D:\programming\Csharp\WPF Rewind 2018\AsyncBinding\obj\Debug\AsyncBinding.csproj.CoreCompileInputs.cache
+D:\programming\Csharp\WPF Rewind 2018\AsyncBinding\obj\Debug\AsyncBinding.exe
+D:\programming\Csharp\WPF Rewind 2018\AsyncBinding\obj\Debug\AsyncBinding.pdb

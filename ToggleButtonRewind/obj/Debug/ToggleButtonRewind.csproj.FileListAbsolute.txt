@@ -1,0 +1,15 @@
+D:\programming\Csharp\WPF Rewind 2018\ToggleButtonRewind\bin\Debug\ToggleButtonRewind.exe.config
+D:\programming\Csharp\WPF Rewind 2018\ToggleButtonRewind\bin\Debug\ToggleButtonRewind.exe
+D:\programming\Csharp\WPF Rewind 2018\ToggleButtonRewind\bin\Debug\ToggleButtonRewind.pdb
+D:\programming\Csharp\WPF Rewind 2018\ToggleButtonRewind\obj\Debug\ToggleButtonRewind.csprojResolveAssemblyReference.cache
+D:\programming\Csharp\WPF Rewind 2018\ToggleButtonRewind\obj\Debug\MainWindow.g.cs
+D:\programming\Csharp\WPF Rewind 2018\ToggleButtonRewind\obj\Debug\App.g.cs
+D:\programming\Csharp\WPF Rewind 2018\ToggleButtonRewind\obj\Debug\ToggleButtonRewind_MarkupCompile.cache
+D:\programming\Csharp\WPF Rewind 2018\ToggleButtonRewind\obj\Debug\ToggleButtonRewind_MarkupCompile.lref
+D:\programming\Csharp\WPF Rewind 2018\ToggleButtonRewind\obj\Debug\MainWindow.baml
+D:\programming\Csharp\WPF Rewind 2018\ToggleButtonRewind\obj\Debug\ToggleButtonRewind.g.resources
+D:\programming\Csharp\WPF Rewind 2018\ToggleButtonRewind\obj\Debug\ToggleButtonRewind.Properties.Resources.resources
+D:\programming\Csharp\WPF Rewind 2018\ToggleButtonRewind\obj\Debug\ToggleButtonRewind.csproj.GenerateResource.Cache
+D:\programming\Csharp\WPF Rewind 2018\ToggleButtonRewind\obj\Debug\ToggleButtonRewind.csproj.CoreCompileInputs.cache
+D:\programming\Csharp\WPF Rewind 2018\ToggleButtonRewind\obj\Debug\ToggleButtonRewind.exe
+D:\programming\Csharp\WPF Rewind 2018\ToggleButtonRewind\obj\Debug\ToggleButtonRewind.pdb

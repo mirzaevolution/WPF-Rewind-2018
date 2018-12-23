@@ -1,0 +1,16 @@
+D:\programming\Csharp\WPF Rewind 2018\Converter1\bin\Debug\Converter1.exe.config
+D:\programming\Csharp\WPF Rewind 2018\Converter1\bin\Debug\Converter1.exe
+D:\programming\Csharp\WPF Rewind 2018\Converter1\bin\Debug\Converter1.pdb
+D:\programming\Csharp\WPF Rewind 2018\Converter1\obj\Debug\MainWindow.g.cs
+D:\programming\Csharp\WPF Rewind 2018\Converter1\obj\Debug\App.g.cs
+D:\programming\Csharp\WPF Rewind 2018\Converter1\obj\Debug\Converter1_MarkupCompile.cache
+D:\programming\Csharp\WPF Rewind 2018\Converter1\obj\Debug\Converter1_MarkupCompile.lref
+D:\programming\Csharp\WPF Rewind 2018\Converter1\obj\Debug\MainWindow.baml
+D:\programming\Csharp\WPF Rewind 2018\Converter1\obj\Debug\Converter1.g.resources
+D:\programming\Csharp\WPF Rewind 2018\Converter1\obj\Debug\Converter1.Properties.Resources.resources
+D:\programming\Csharp\WPF Rewind 2018\Converter1\obj\Debug\Converter1.csproj.GenerateResource.Cache
+D:\programming\Csharp\WPF Rewind 2018\Converter1\obj\Debug\Converter1.csproj.CoreCompileInputs.cache
+D:\programming\Csharp\WPF Rewind 2018\Converter1\obj\Debug\Converter1.exe
+D:\programming\Csharp\WPF Rewind 2018\Converter1\obj\Debug\Converter1.pdb
+D:\programming\Csharp\WPF Rewind 2018\Converter1\obj\Debug\Converter1.csprojResolveAssemblyReference.cache
+D:\programming\Csharp\WPF Rewind 2018\Converter1\obj\Debug\GeneratedInternalTypeHelper.g.cs

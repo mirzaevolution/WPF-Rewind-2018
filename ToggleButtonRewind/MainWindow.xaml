@@ -1,0 +1,18 @@
+﻿<Window x:Class="ToggleButtonRewind.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ToggleButtonRewind"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="220.675" Width="235.557">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <ToggleButton Name="ToggleButtonMain" Click="ToggleButtonMainClickHandler"
+                      Width="100" Height="30" Content="Hide Box" Margin="10"/>
+        <Border Name="BorderBox" Background="RoyalBlue" Margin="10" Grid.Row="1"/>
+    </Grid>
+</Window>

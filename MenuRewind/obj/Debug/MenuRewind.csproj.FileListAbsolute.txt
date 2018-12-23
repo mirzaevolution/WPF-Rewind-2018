@@ -1,0 +1,15 @@
+D:\programming\Csharp\WPF Rewind 2018\MenuRewind\bin\Debug\MenuRewind.exe.config
+D:\programming\Csharp\WPF Rewind 2018\MenuRewind\bin\Debug\MenuRewind.exe
+D:\programming\Csharp\WPF Rewind 2018\MenuRewind\bin\Debug\MenuRewind.pdb
+D:\programming\Csharp\WPF Rewind 2018\MenuRewind\obj\Debug\MenuRewind.csprojResolveAssemblyReference.cache
+D:\programming\Csharp\WPF Rewind 2018\MenuRewind\obj\Debug\MainWindow.g.cs
+D:\programming\Csharp\WPF Rewind 2018\MenuRewind\obj\Debug\App.g.cs
+D:\programming\Csharp\WPF Rewind 2018\MenuRewind\obj\Debug\MenuRewind_MarkupCompile.cache
+D:\programming\Csharp\WPF Rewind 2018\MenuRewind\obj\Debug\MenuRewind_MarkupCompile.lref
+D:\programming\Csharp\WPF Rewind 2018\MenuRewind\obj\Debug\MainWindow.baml
+D:\programming\Csharp\WPF Rewind 2018\MenuRewind\obj\Debug\MenuRewind.g.resources
+D:\programming\Csharp\WPF Rewind 2018\MenuRewind\obj\Debug\MenuRewind.Properties.Resources.resources
+D:\programming\Csharp\WPF Rewind 2018\MenuRewind\obj\Debug\MenuRewind.csproj.GenerateResource.Cache
+D:\programming\Csharp\WPF Rewind 2018\MenuRewind\obj\Debug\MenuRewind.csproj.CoreCompileInputs.cache
+D:\programming\Csharp\WPF Rewind 2018\MenuRewind\obj\Debug\MenuRewind.exe
+D:\programming\Csharp\WPF Rewind 2018\MenuRewind\obj\Debug\MenuRewind.pdb

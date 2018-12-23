@@ -1,0 +1,15 @@
+D:\programming\Csharp\WPF Rewind 2018\MultiBinding2\bin\Debug\MultiBinding2.exe.config
+D:\programming\Csharp\WPF Rewind 2018\MultiBinding2\bin\Debug\MultiBinding2.exe
+D:\programming\Csharp\WPF Rewind 2018\MultiBinding2\bin\Debug\MultiBinding2.pdb
+D:\programming\Csharp\WPF Rewind 2018\MultiBinding2\obj\Debug\MainWindow.g.cs
+D:\programming\Csharp\WPF Rewind 2018\MultiBinding2\obj\Debug\App.g.cs
+D:\programming\Csharp\WPF Rewind 2018\MultiBinding2\obj\Debug\MultiBinding2_MarkupCompile.cache
+D:\programming\Csharp\WPF Rewind 2018\MultiBinding2\obj\Debug\MultiBinding2_MarkupCompile.lref
+D:\programming\Csharp\WPF Rewind 2018\MultiBinding2\obj\Debug\MainWindow.baml
+D:\programming\Csharp\WPF Rewind 2018\MultiBinding2\obj\Debug\MultiBinding2.g.resources
+D:\programming\Csharp\WPF Rewind 2018\MultiBinding2\obj\Debug\MultiBinding2.Properties.Resources.resources
+D:\programming\Csharp\WPF Rewind 2018\MultiBinding2\obj\Debug\MultiBinding2.csproj.GenerateResource.Cache
+D:\programming\Csharp\WPF Rewind 2018\MultiBinding2\obj\Debug\MultiBinding2.csproj.CoreCompileInputs.cache
+D:\programming\Csharp\WPF Rewind 2018\MultiBinding2\obj\Debug\MultiBinding2.exe
+D:\programming\Csharp\WPF Rewind 2018\MultiBinding2\obj\Debug\MultiBinding2.pdb
+D:\programming\Csharp\WPF Rewind 2018\MultiBinding2\obj\Debug\GeneratedInternalTypeHelper.g.cs
