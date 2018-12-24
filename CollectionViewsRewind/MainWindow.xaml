@@ -5,6 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:CollectionViewsRewind"
         xmlns:scm="clr-namespace:System.ComponentModel;assembly=WindowsBase"
+        xmlns:swd="clr-namespace:System.Windows.Data;assembly=PresentationFramework"
         mc:Ignorable="d"
         Title="MainWindow" Height="258.5" Width="271.5">
     <Window.Resources>
@@ -13,6 +14,9 @@
             <CollectionViewSource.SortDescriptions>
                 <scm:SortDescription PropertyName="Age"/>
             </CollectionViewSource.SortDescriptions>
+            <CollectionViewSource.GroupDescriptions>
+                <swd:PropertyGroupDescription PropertyName="Gender"/>
+            </CollectionViewSource.GroupDescriptions>
         </CollectionViewSource>
     </Window.Resources>
     <Grid>
@@ -23,10 +27,36 @@
                         <TextBlock Text="{Binding FirstName}"/>
                         <TextBlock Foreground="Red" Text="{Binding LastName}"/>
                         <TextBlock Foreground="Green" Text="{Binding Age}"/>
-                        <TextBlock Foreground="Blue" Text="{Binding Gender}"/>
                     </StackPanel>
                 </DataTemplate>
             </ListBox.ItemTemplate>
+            <ListBox.ItemContainerStyle>
+                <Style TargetType="ListBoxItem">
+                    <Style.Setters>
+                        <Setter Property="BorderBrush" Value="LightGray"/>
+                        <Setter Property="Margin" Value="2"/>
+                    </Style.Setters>
+                </Style>
+            </ListBox.ItemContainerStyle>
+            <ListBox.GroupStyle>
+                <GroupStyle>
+                    <GroupStyle.ContainerStyle>
+                        <Style TargetType="GroupItem">
+                            <Style.Setters>
+                                <Setter Property="Template">
+                                    <Setter.Value>
+                                        <ControlTemplate>
+                                            <Expander Header="{Binding Name}" Margin="2">
+                                                <ItemsPresenter/>
+                                            </Expander>
+                                        </ControlTemplate>
+                                    </Setter.Value>
+                                </Setter>
+                            </Style.Setters>
+                        </Style>
+                    </GroupStyle.ContainerStyle>
+                </GroupStyle>
+            </ListBox.GroupStyle>
         </ListBox>
     </Grid>
 </Window>
