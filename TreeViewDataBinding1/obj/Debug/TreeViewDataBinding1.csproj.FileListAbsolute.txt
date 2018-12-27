@@ -1,0 +1,15 @@
+D:\programming\Csharp\WPF Rewind 2018\TreeViewDataBinding1\bin\Debug\TreeViewDataBinding1.exe.config
+D:\programming\Csharp\WPF Rewind 2018\TreeViewDataBinding1\bin\Debug\TreeViewDataBinding1.exe
+D:\programming\Csharp\WPF Rewind 2018\TreeViewDataBinding1\bin\Debug\TreeViewDataBinding1.pdb
+D:\programming\Csharp\WPF Rewind 2018\TreeViewDataBinding1\obj\Debug\MainWindow.g.cs
+D:\programming\Csharp\WPF Rewind 2018\TreeViewDataBinding1\obj\Debug\App.g.cs
+D:\programming\Csharp\WPF Rewind 2018\TreeViewDataBinding1\obj\Debug\TreeViewDataBinding1_MarkupCompile.cache
+D:\programming\Csharp\WPF Rewind 2018\TreeViewDataBinding1\obj\Debug\TreeViewDataBinding1_MarkupCompile.lref
+D:\programming\Csharp\WPF Rewind 2018\TreeViewDataBinding1\obj\Debug\MainWindow.baml
+D:\programming\Csharp\WPF Rewind 2018\TreeViewDataBinding1\obj\Debug\TreeViewDataBinding1.g.resources
+D:\programming\Csharp\WPF Rewind 2018\TreeViewDataBinding1\obj\Debug\TreeViewDataBinding1.Properties.Resources.resources
+D:\programming\Csharp\WPF Rewind 2018\TreeViewDataBinding1\obj\Debug\TreeViewDataBinding1.csproj.GenerateResource.Cache
+D:\programming\Csharp\WPF Rewind 2018\TreeViewDataBinding1\obj\Debug\TreeViewDataBinding1.csproj.CoreCompileInputs.cache
+D:\programming\Csharp\WPF Rewind 2018\TreeViewDataBinding1\obj\Debug\TreeViewDataBinding1.exe
+D:\programming\Csharp\WPF Rewind 2018\TreeViewDataBinding1\obj\Debug\TreeViewDataBinding1.pdb
+D:\programming\Csharp\WPF Rewind 2018\TreeViewDataBinding1\obj\Debug\TreeViewDataBinding1.csprojResolveAssemblyReference.cache
