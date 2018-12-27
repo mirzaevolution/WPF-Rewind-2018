@@ -12,12 +12,12 @@
         </DataTemplate>
         <HierarchicalDataTemplate x:Key="TeamClassTemplate"
                                   ItemsSource="{Binding Teams}"
-                                  ItemTemplate="{Binding }">
+                                  ItemTemplate="{StaticResource TeamTemplate}">
             <TextBlock Text="{Binding ClassName}"/>
         </HierarchicalDataTemplate>
     </Window.Resources>
     <Grid>
-        <TreeView ItemsSource="{Binding}">
+        <TreeView ItemsSource="{Binding}" ItemTemplate="{StaticResource TeamClassTemplate}">
        
         </TreeView>
     </Grid>

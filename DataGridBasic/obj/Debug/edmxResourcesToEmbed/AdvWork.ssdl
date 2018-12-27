@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AdventureWorks2016CTP3Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'AdventureWorks2016CTP3.HumanResources.vEmployee' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="vEmployee">
+    <Key>
+      <PropertyRef Name="BusinessEntityID" />
+      <PropertyRef Name="FirstName" />
+      <PropertyRef Name="LastName" />
+      <PropertyRef Name="JobTitle" />
+      <PropertyRef Name="EmailPromotion" />
+      <PropertyRef Name="AddressLine1" />
+      <PropertyRef Name="City" />
+      <PropertyRef Name="StateProvinceName" />
+      <PropertyRef Name="PostalCode" />
+      <PropertyRef Name="CountryRegionName" />
+    </Key>
+    <Property Name="BusinessEntityID" Type="int" Nullable="false" />
+    <Property Name="Title" Type="nvarchar" MaxLength="8" />
+    <Property Name="FirstName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="MiddleName" Type="nvarchar" MaxLength="50" />
+    <Property Name="LastName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Suffix" Type="nvarchar" MaxLength="10" />
+    <Property Name="JobTitle" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="PhoneNumber" Type="nvarchar" MaxLength="25" />
+    <Property Name="PhoneNumberType" Type="nvarchar" MaxLength="50" />
+    <Property Name="EmailAddress" Type="nvarchar" MaxLength="50" />
+    <Property Name="EmailPromotion" Type="int" Nullable="false" />
+    <Property Name="AddressLine1" Type="nvarchar" MaxLength="60" Nullable="false" />
+    <Property Name="AddressLine2" Type="nvarchar" MaxLength="60" />
+    <Property Name="City" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="StateProvinceName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="PostalCode" Type="nvarchar" MaxLength="15" Nullable="false" />
+    <Property Name="CountryRegionName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="AdditionalContactInfo" Type="xml" />
+  </EntityType>
+  <EntityContainer Name="AdventureWorks2016CTP3ModelStoreContainer">
+    <EntitySet Name="vEmployee" EntityType="Self.vEmployee" store:Type="Views" store:Schema="HumanResources">
+      <DefiningQuery>SELECT 
+    [vEmployee].[BusinessEntityID] AS [BusinessEntityID], 
+    [vEmployee].[Title] AS [Title], 
+    [vEmployee].[FirstName] AS [FirstName], 
+    [vEmployee].[MiddleName] AS [MiddleName], 
+    [vEmployee].[LastName] AS [LastName], 
+    [vEmployee].[Suffix] AS [Suffix], 
+    [vEmployee].[JobTitle] AS [JobTitle], 
+    [vEmployee].[PhoneNumber] AS [PhoneNumber], 
+    [vEmployee].[PhoneNumberType] AS [PhoneNumberType], 
+    [vEmployee].[EmailAddress] AS [EmailAddress], 
+    [vEmployee].[EmailPromotion] AS [EmailPromotion], 
+    [vEmployee].[AddressLine1] AS [AddressLine1], 
+    [vEmployee].[AddressLine2] AS [AddressLine2], 
+    [vEmployee].[City] AS [City], 
+    [vEmployee].[StateProvinceName] AS [StateProvinceName], 
+    [vEmployee].[PostalCode] AS [PostalCode], 
+    [vEmployee].[CountryRegionName] AS [CountryRegionName], 
+    [vEmployee].[AdditionalContactInfo] AS [AdditionalContactInfo]
+    FROM [HumanResources].[vEmployee] AS [vEmployee]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,16 @@
+D:\programming\Csharp\WPF Rewind 2018\TreeViewBinding3\bin\Debug\TreeViewBinding3.exe.config
+D:\programming\Csharp\WPF Rewind 2018\TreeViewBinding3\bin\Debug\TreeViewBinding3.exe
+D:\programming\Csharp\WPF Rewind 2018\TreeViewBinding3\bin\Debug\TreeViewBinding3.pdb
+D:\programming\Csharp\WPF Rewind 2018\TreeViewBinding3\obj\Debug\TreeViewBinding3.csprojResolveAssemblyReference.cache
+D:\programming\Csharp\WPF Rewind 2018\TreeViewBinding3\obj\Debug\MainWindow.g.cs
+D:\programming\Csharp\WPF Rewind 2018\TreeViewBinding3\obj\Debug\App.g.cs
+D:\programming\Csharp\WPF Rewind 2018\TreeViewBinding3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\programming\Csharp\WPF Rewind 2018\TreeViewBinding3\obj\Debug\TreeViewBinding3_MarkupCompile.cache
+D:\programming\Csharp\WPF Rewind 2018\TreeViewBinding3\obj\Debug\TreeViewBinding3_MarkupCompile.lref
+D:\programming\Csharp\WPF Rewind 2018\TreeViewBinding3\obj\Debug\MainWindow.baml
+D:\programming\Csharp\WPF Rewind 2018\TreeViewBinding3\obj\Debug\TreeViewBinding3.g.resources
+D:\programming\Csharp\WPF Rewind 2018\TreeViewBinding3\obj\Debug\TreeViewBinding3.Properties.Resources.resources
+D:\programming\Csharp\WPF Rewind 2018\TreeViewBinding3\obj\Debug\TreeViewBinding3.csproj.GenerateResource.Cache
+D:\programming\Csharp\WPF Rewind 2018\TreeViewBinding3\obj\Debug\TreeViewBinding3.csproj.CoreCompileInputs.cache
+D:\programming\Csharp\WPF Rewind 2018\TreeViewBinding3\obj\Debug\TreeViewBinding3.exe
+D:\programming\Csharp\WPF Rewind 2018\TreeViewBinding3\obj\Debug\TreeViewBinding3.pdb
