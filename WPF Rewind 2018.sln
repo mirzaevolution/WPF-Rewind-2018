@@ -103,6 +103,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeViewBasic", "TreeViewBa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeViewDataBinding1", "TreeViewDataBinding1\TreeViewDataBinding1.csproj", "{B60CC384-91A1-4A34-B16F-DC4D07E4A670}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatagridCustomColumn", "DatagridCustomColumn\DatagridCustomColumn.csproj", "{FB9DC2CA-98D1-47F0-B371-674FD95C8A59}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -281,6 +283,10 @@ Global
 		{B60CC384-91A1-4A34-B16F-DC4D07E4A670}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B60CC384-91A1-4A34-B16F-DC4D07E4A670}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B60CC384-91A1-4A34-B16F-DC4D07E4A670}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB9DC2CA-98D1-47F0-B371-674FD95C8A59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB9DC2CA-98D1-47F0-B371-674FD95C8A59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB9DC2CA-98D1-47F0-B371-674FD95C8A59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB9DC2CA-98D1-47F0-B371-674FD95C8A59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -329,6 +335,7 @@ Global
 		{A6652C8B-CEC4-4DA8-B3D2-73E3AD622879} = {F39030FD-7CBF-44F1-B2A5-4C064136E2BC}
 		{78AFEB36-CB77-435A-A6B0-18D263AB6B15} = {F39030FD-7CBF-44F1-B2A5-4C064136E2BC}
 		{B60CC384-91A1-4A34-B16F-DC4D07E4A670} = {38DB4DE0-2155-450A-8F37-37CF31774990}
+		{FB9DC2CA-98D1-47F0-B371-674FD95C8A59} = {F39030FD-7CBF-44F1-B2A5-4C064136E2BC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EB96DFD7-D65D-4D03-8AD6-05DAF687F5B0}
