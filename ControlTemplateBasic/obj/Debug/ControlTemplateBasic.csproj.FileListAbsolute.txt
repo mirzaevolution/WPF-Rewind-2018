@@ -1,0 +1,15 @@
+D:\programming\Csharp\WPF Rewind 2018\ControlTemplateBasic\bin\Debug\ControlTemplateBasic.exe.config
+D:\programming\Csharp\WPF Rewind 2018\ControlTemplateBasic\bin\Debug\ControlTemplateBasic.exe
+D:\programming\Csharp\WPF Rewind 2018\ControlTemplateBasic\bin\Debug\ControlTemplateBasic.pdb
+D:\programming\Csharp\WPF Rewind 2018\ControlTemplateBasic\obj\Debug\MainWindow.g.cs
+D:\programming\Csharp\WPF Rewind 2018\ControlTemplateBasic\obj\Debug\App.g.cs
+D:\programming\Csharp\WPF Rewind 2018\ControlTemplateBasic\obj\Debug\ControlTemplateBasic_MarkupCompile.cache
+D:\programming\Csharp\WPF Rewind 2018\ControlTemplateBasic\obj\Debug\ControlTemplateBasic_MarkupCompile.lref
+D:\programming\Csharp\WPF Rewind 2018\ControlTemplateBasic\obj\Debug\MainWindow.baml
+D:\programming\Csharp\WPF Rewind 2018\ControlTemplateBasic\obj\Debug\ControlTemplateBasic.g.resources
+D:\programming\Csharp\WPF Rewind 2018\ControlTemplateBasic\obj\Debug\ControlTemplateBasic.Properties.Resources.resources
+D:\programming\Csharp\WPF Rewind 2018\ControlTemplateBasic\obj\Debug\ControlTemplateBasic.csproj.GenerateResource.Cache
+D:\programming\Csharp\WPF Rewind 2018\ControlTemplateBasic\obj\Debug\ControlTemplateBasic.csproj.CoreCompileInputs.cache
+D:\programming\Csharp\WPF Rewind 2018\ControlTemplateBasic\obj\Debug\ControlTemplateBasic.exe
+D:\programming\Csharp\WPF Rewind 2018\ControlTemplateBasic\obj\Debug\ControlTemplateBasic.pdb
+D:\programming\Csharp\WPF Rewind 2018\ControlTemplateBasic\obj\Debug\ControlTemplateBasic.csprojResolveAssemblyReference.cache

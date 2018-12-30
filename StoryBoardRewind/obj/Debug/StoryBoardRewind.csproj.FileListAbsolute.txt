@@ -1,0 +1,15 @@
+D:\programming\Csharp\WPF Rewind 2018\StoryBoardRewind\bin\Debug\StoryBoardRewind.exe.config
+D:\programming\Csharp\WPF Rewind 2018\StoryBoardRewind\bin\Debug\StoryBoardRewind.exe
+D:\programming\Csharp\WPF Rewind 2018\StoryBoardRewind\bin\Debug\StoryBoardRewind.pdb
+D:\programming\Csharp\WPF Rewind 2018\StoryBoardRewind\obj\Debug\StoryBoardRewind.csprojResolveAssemblyReference.cache
+D:\programming\Csharp\WPF Rewind 2018\StoryBoardRewind\obj\Debug\MainWindow.g.cs
+D:\programming\Csharp\WPF Rewind 2018\StoryBoardRewind\obj\Debug\App.g.cs
+D:\programming\Csharp\WPF Rewind 2018\StoryBoardRewind\obj\Debug\StoryBoardRewind_MarkupCompile.cache
+D:\programming\Csharp\WPF Rewind 2018\StoryBoardRewind\obj\Debug\StoryBoardRewind_MarkupCompile.lref
+D:\programming\Csharp\WPF Rewind 2018\StoryBoardRewind\obj\Debug\MainWindow.baml
+D:\programming\Csharp\WPF Rewind 2018\StoryBoardRewind\obj\Debug\StoryBoardRewind.g.resources
+D:\programming\Csharp\WPF Rewind 2018\StoryBoardRewind\obj\Debug\StoryBoardRewind.Properties.Resources.resources
+D:\programming\Csharp\WPF Rewind 2018\StoryBoardRewind\obj\Debug\StoryBoardRewind.csproj.GenerateResource.Cache
+D:\programming\Csharp\WPF Rewind 2018\StoryBoardRewind\obj\Debug\StoryBoardRewind.csproj.CoreCompileInputs.cache
+D:\programming\Csharp\WPF Rewind 2018\StoryBoardRewind\obj\Debug\StoryBoardRewind.exe
+D:\programming\Csharp\WPF Rewind 2018\StoryBoardRewind\obj\Debug\StoryBoardRewind.pdb

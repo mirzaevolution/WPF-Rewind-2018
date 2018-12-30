@@ -7,10 +7,19 @@
         xmlns:sys="clr-namespace:System;assembly=mscorlib"
         mc:Ignorable="d"
         
-        Title="Data Grid Basic" Height="368.608" Width="1034.766">
+        Title="Data Grid Basic" Height="368.608" Width="1134.766">
     <Grid>
-        <DataGrid Name="DataGridBasic" Margin="10" AutoGenerateColumns="False" RowHeaderWidth="20"
-                  CanUserAddRows="False">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Button Grid.Row="0" Margin="10" Content="Show Selected" Name="ButtonShowSelected"
+                Click="ButtonShowSelectedClickHandler" Width="100" Height="30" HorizontalAlignment="Right"/>
+        <DataGrid Name="DataGridBasic" Margin="10" AutoGenerateColumns="False"
+                  Hyperlink.Click="DataGridBasic_Click" HeadersVisibility="Column"
+                  AlternatingRowBackground="LightGray" Background="RoyalBlue"
+                  FrozenColumnCount="2" 
+                  CanUserAddRows="False" Grid.Row="1" SelectionMode="Single" SelectionUnit="FullRow">
             <DataGrid.Columns>
                 <DataGridTextColumn Header="First Name" Width="*"  Binding="{Binding FirstName}"/>
                 <DataGridTextColumn Header="Last Name" Width="*"  Binding="{Binding LastName}"/>
@@ -32,6 +41,7 @@
                         </DataTemplate>
                     </DataGridTemplateColumn.CellTemplate>
                 </DataGridTemplateColumn>
+                <DataGridHyperlinkColumn Header="Url" Binding="{Binding Url}" Width="*"/>
                 <DataGridComboBoxColumn x:Name="ColumnCountry" Header="Country" Width="*" 
                                         SelectedItemBinding="{Binding Country}"
                                         DisplayMemberPath="{Binding Country}">

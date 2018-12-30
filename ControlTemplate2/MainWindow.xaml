@@ -1,0 +1,32 @@
+﻿<Window x:Class="ControlTemplate2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ControlTemplate2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="160" Width="411">
+    <Window.Resources>
+        <ControlTemplate x:Key="ProgressBarTemplate" TargetType="ProgressBar">
+            <Grid>
+                <ProgressBar Height="{TemplateBinding Height}"
+                             Maximum="{TemplateBinding Maximum}"
+                             Minimum="{TemplateBinding Minimum}"
+                             Value="{TemplateBinding Value}"/>
+                <TextBlock Text="{Binding RelativeSource={RelativeSource TemplatedParent},Path=Value,StringFormat='{}{0}%'}" TextAlignment="Center"
+                           FontWeight="SemiBold" VerticalAlignment="Center" FontSize="18" Foreground="#333"/>
+            </Grid>
+        </ControlTemplate>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <ProgressBar Height="40" Maximum="100" Minimum="0" Margin="10" Template="{StaticResource ProgressBarTemplate}"
+                     Value="{Binding ElementName=SliderProgress,Path=Value}"/>
+        <Slider Grid.Row="1" Margin="10" Maximum="100" Minimum="0" 
+                Name="SliderProgress" IsSnapToTickEnabled="True"
+                TickPlacement="TopLeft"/>
+    </Grid>
+</Window>

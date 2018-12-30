@@ -1,0 +1,15 @@
+D:\programming\Csharp\WPF Rewind 2018\LineRewind\bin\Debug\LineRewind.exe.config
+D:\programming\Csharp\WPF Rewind 2018\LineRewind\bin\Debug\LineRewind.exe
+D:\programming\Csharp\WPF Rewind 2018\LineRewind\bin\Debug\LineRewind.pdb
+D:\programming\Csharp\WPF Rewind 2018\LineRewind\obj\Debug\LineRewind.csprojResolveAssemblyReference.cache
+D:\programming\Csharp\WPF Rewind 2018\LineRewind\obj\Debug\MainWindow.g.cs
+D:\programming\Csharp\WPF Rewind 2018\LineRewind\obj\Debug\App.g.cs
+D:\programming\Csharp\WPF Rewind 2018\LineRewind\obj\Debug\LineRewind_MarkupCompile.cache
+D:\programming\Csharp\WPF Rewind 2018\LineRewind\obj\Debug\LineRewind_MarkupCompile.lref
+D:\programming\Csharp\WPF Rewind 2018\LineRewind\obj\Debug\MainWindow.baml
+D:\programming\Csharp\WPF Rewind 2018\LineRewind\obj\Debug\LineRewind.g.resources
+D:\programming\Csharp\WPF Rewind 2018\LineRewind\obj\Debug\LineRewind.Properties.Resources.resources
+D:\programming\Csharp\WPF Rewind 2018\LineRewind\obj\Debug\LineRewind.csproj.GenerateResource.Cache
+D:\programming\Csharp\WPF Rewind 2018\LineRewind\obj\Debug\LineRewind.csproj.CoreCompileInputs.cache
+D:\programming\Csharp\WPF Rewind 2018\LineRewind\obj\Debug\LineRewind.exe
+D:\programming\Csharp\WPF Rewind 2018\LineRewind\obj\Debug\LineRewind.pdb

@@ -1,0 +1,15 @@
+D:\programming\Csharp\WPF Rewind 2018\ListBoxImages\bin\Debug\ListBoxImages.exe.config
+D:\programming\Csharp\WPF Rewind 2018\ListBoxImages\bin\Debug\ListBoxImages.exe
+D:\programming\Csharp\WPF Rewind 2018\ListBoxImages\bin\Debug\ListBoxImages.pdb
+D:\programming\Csharp\WPF Rewind 2018\ListBoxImages\obj\Debug\ListBoxImages.csprojResolveAssemblyReference.cache
+D:\programming\Csharp\WPF Rewind 2018\ListBoxImages\obj\Debug\MainWindow.g.cs
+D:\programming\Csharp\WPF Rewind 2018\ListBoxImages\obj\Debug\App.g.cs
+D:\programming\Csharp\WPF Rewind 2018\ListBoxImages\obj\Debug\ListBoxImages_MarkupCompile.cache
+D:\programming\Csharp\WPF Rewind 2018\ListBoxImages\obj\Debug\ListBoxImages_MarkupCompile.lref
+D:\programming\Csharp\WPF Rewind 2018\ListBoxImages\obj\Debug\MainWindow.baml
+D:\programming\Csharp\WPF Rewind 2018\ListBoxImages\obj\Debug\ListBoxImages.g.resources
+D:\programming\Csharp\WPF Rewind 2018\ListBoxImages\obj\Debug\ListBoxImages.Properties.Resources.resources
+D:\programming\Csharp\WPF Rewind 2018\ListBoxImages\obj\Debug\ListBoxImages.csproj.GenerateResource.Cache
+D:\programming\Csharp\WPF Rewind 2018\ListBoxImages\obj\Debug\ListBoxImages.csproj.CoreCompileInputs.cache
+D:\programming\Csharp\WPF Rewind 2018\ListBoxImages\obj\Debug\ListBoxImages.exe
+D:\programming\Csharp\WPF Rewind 2018\ListBoxImages\obj\Debug\ListBoxImages.pdb

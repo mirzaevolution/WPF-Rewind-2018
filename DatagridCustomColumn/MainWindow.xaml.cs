@@ -28,6 +28,7 @@ namespace DatagridCustomColumn
             List<Employee> employees = new List<Employee>()
             {
                 new Employee("Mirza Ghulam","Rasyid","ghulamcyber@hotmail.com",true,new DateTime(1995,10,21),new DateTime(2018,08,06),"Indonesia",
+                "http://www.facebook.com",
                 new List<string>
                 {
                     "ASP.NET MVC",
@@ -38,12 +39,14 @@ namespace DatagridCustomColumn
                     "SQL Server"
                 }),
                 new Employee("Rara","Anjani","raraanjani@gmail.com",true,new DateTime(1996,12,30),new DateTime(2018,07,10),"Indonesia",
+                "http://www.facebook.com",
                 new List<string>
                 {
                     "ASP.NET MVC",
                     "SQL Server"
                 }),
                 new Employee("Beggi","Mamad","beggimamad07@hotmail.com",false,new DateTime(1993,07,21),new DateTime(2017,10,29),"Malaysia",
+                "http://www.facebook.com",
                 new List<string>
                 {
                     "ASP.NET MVC",
@@ -51,6 +54,7 @@ namespace DatagridCustomColumn
                     "Microsoft Azure"
                 }),
                 new Employee("Michael","Hawk","Hawk812@hackermail.com",false,new DateTime(1991,09,15),new DateTime(2018,01,20),"Australia",
+                "http://www.facebook.com",
                 new List<string>
                 {
                     "ASP.NET MVC",
@@ -68,6 +72,40 @@ namespace DatagridCustomColumn
             //    "USA",
             //    "UK"
             //};
+        }
+
+        private void ButtonShowSelectedClickHandler(object sender, RoutedEventArgs e)
+        {
+            try
+            {
+                var selectedItem = DataGridBasic.SelectedItem;
+                if (selectedItem is Employee employee)
+                {
+                    MessageBox.Show($"First Name: {employee.FirstName}\n" +
+                                    $"Last Name: {employee.LastName}\n" +
+                                    $"Email: {employee.Email}\n" +
+                                    $"Url: {employee.Url}\n" +
+                                    $"Date of Birth: {employee.DateOfBirth.ToLongDateString()}\n" +
+                                    $"Date Accepted: {employee.DateAccepted.ToLongDateString()}");
+                }
+                //var selectedCells = DataGridBasic.SelectedCells;
+
+            }
+            catch(Exception ex)
+            {
+                MessageBox.Show(ex.ToString(), "Error", MessageBoxButton.OK, MessageBoxImage.Information);
+            }
+        }
+
+     
+
+        private void DataGridBasic_Click(object sender, RoutedEventArgs e)
+        {
+            Hyperlink hyperlink = e.OriginalSource as Hyperlink;
+            if (hyperlink != null)
+            {
+                System.Diagnostics.Process.Start(hyperlink.NavigateUri.ToString());
+            }
         }
     }
 }

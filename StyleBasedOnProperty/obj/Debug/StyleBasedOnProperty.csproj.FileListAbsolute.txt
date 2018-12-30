@@ -1,0 +1,15 @@
+D:\programming\Csharp\WPF Rewind 2018\StyleBasedOnProperty\bin\Debug\StyleBasedOnProperty.exe.config
+D:\programming\Csharp\WPF Rewind 2018\StyleBasedOnProperty\bin\Debug\StyleBasedOnProperty.exe
+D:\programming\Csharp\WPF Rewind 2018\StyleBasedOnProperty\bin\Debug\StyleBasedOnProperty.pdb
+D:\programming\Csharp\WPF Rewind 2018\StyleBasedOnProperty\obj\Debug\MainWindow.g.cs
+D:\programming\Csharp\WPF Rewind 2018\StyleBasedOnProperty\obj\Debug\App.g.cs
+D:\programming\Csharp\WPF Rewind 2018\StyleBasedOnProperty\obj\Debug\StyleBasedOnProperty_MarkupCompile.cache
+D:\programming\Csharp\WPF Rewind 2018\StyleBasedOnProperty\obj\Debug\StyleBasedOnProperty_MarkupCompile.lref
+D:\programming\Csharp\WPF Rewind 2018\StyleBasedOnProperty\obj\Debug\MainWindow.baml
+D:\programming\Csharp\WPF Rewind 2018\StyleBasedOnProperty\obj\Debug\StyleBasedOnProperty.g.resources
+D:\programming\Csharp\WPF Rewind 2018\StyleBasedOnProperty\obj\Debug\StyleBasedOnProperty.Properties.Resources.resources
+D:\programming\Csharp\WPF Rewind 2018\StyleBasedOnProperty\obj\Debug\StyleBasedOnProperty.csproj.GenerateResource.Cache
+D:\programming\Csharp\WPF Rewind 2018\StyleBasedOnProperty\obj\Debug\StyleBasedOnProperty.csproj.CoreCompileInputs.cache
+D:\programming\Csharp\WPF Rewind 2018\StyleBasedOnProperty\obj\Debug\StyleBasedOnProperty.exe
+D:\programming\Csharp\WPF Rewind 2018\StyleBasedOnProperty\obj\Debug\StyleBasedOnProperty.pdb
+D:\programming\Csharp\WPF Rewind 2018\StyleBasedOnProperty\obj\Debug\StyleBasedOnProperty.csprojResolveAssemblyReference.cache

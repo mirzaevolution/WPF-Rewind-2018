@@ -1,0 +1,14 @@
+D:\programming\Csharp\WPF Rewind 2018\EventTrigger\bin\Debug\EventTrigger.exe.config
+D:\programming\Csharp\WPF Rewind 2018\EventTrigger\bin\Debug\EventTrigger.exe
+D:\programming\Csharp\WPF Rewind 2018\EventTrigger\bin\Debug\EventTrigger.pdb
+D:\programming\Csharp\WPF Rewind 2018\EventTrigger\obj\Debug\MainWindow.g.cs
+D:\programming\Csharp\WPF Rewind 2018\EventTrigger\obj\Debug\App.g.cs
+D:\programming\Csharp\WPF Rewind 2018\EventTrigger\obj\Debug\EventTrigger_MarkupCompile.cache
+D:\programming\Csharp\WPF Rewind 2018\EventTrigger\obj\Debug\EventTrigger_MarkupCompile.lref
+D:\programming\Csharp\WPF Rewind 2018\EventTrigger\obj\Debug\MainWindow.baml
+D:\programming\Csharp\WPF Rewind 2018\EventTrigger\obj\Debug\EventTrigger.g.resources
+D:\programming\Csharp\WPF Rewind 2018\EventTrigger\obj\Debug\EventTrigger.Properties.Resources.resources
+D:\programming\Csharp\WPF Rewind 2018\EventTrigger\obj\Debug\EventTrigger.csproj.GenerateResource.Cache
+D:\programming\Csharp\WPF Rewind 2018\EventTrigger\obj\Debug\EventTrigger.csproj.CoreCompileInputs.cache
+D:\programming\Csharp\WPF Rewind 2018\EventTrigger\obj\Debug\EventTrigger.exe
+D:\programming\Csharp\WPF Rewind 2018\EventTrigger\obj\Debug\EventTrigger.pdb

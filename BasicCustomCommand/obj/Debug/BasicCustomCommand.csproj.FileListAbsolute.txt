@@ -1,0 +1,16 @@
+D:\programming\Csharp\WPF Rewind 2018\BasicCustomCommand\bin\Debug\BasicCustomCommand.exe.config
+D:\programming\Csharp\WPF Rewind 2018\BasicCustomCommand\bin\Debug\BasicCustomCommand.exe
+D:\programming\Csharp\WPF Rewind 2018\BasicCustomCommand\bin\Debug\BasicCustomCommand.pdb
+D:\programming\Csharp\WPF Rewind 2018\BasicCustomCommand\obj\Debug\MainWindow.g.cs
+D:\programming\Csharp\WPF Rewind 2018\BasicCustomCommand\obj\Debug\App.g.cs
+D:\programming\Csharp\WPF Rewind 2018\BasicCustomCommand\obj\Debug\BasicCustomCommand_MarkupCompile.cache
+D:\programming\Csharp\WPF Rewind 2018\BasicCustomCommand\obj\Debug\BasicCustomCommand_MarkupCompile.lref
+D:\programming\Csharp\WPF Rewind 2018\BasicCustomCommand\obj\Debug\MainWindow.baml
+D:\programming\Csharp\WPF Rewind 2018\BasicCustomCommand\obj\Debug\BasicCustomCommand.g.resources
+D:\programming\Csharp\WPF Rewind 2018\BasicCustomCommand\obj\Debug\BasicCustomCommand.Properties.Resources.resources
+D:\programming\Csharp\WPF Rewind 2018\BasicCustomCommand\obj\Debug\BasicCustomCommand.csproj.GenerateResource.Cache
+D:\programming\Csharp\WPF Rewind 2018\BasicCustomCommand\obj\Debug\BasicCustomCommand.csproj.CoreCompileInputs.cache
+D:\programming\Csharp\WPF Rewind 2018\BasicCustomCommand\obj\Debug\BasicCustomCommand.exe
+D:\programming\Csharp\WPF Rewind 2018\BasicCustomCommand\obj\Debug\BasicCustomCommand.pdb
+D:\programming\Csharp\WPF Rewind 2018\BasicCustomCommand\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\programming\Csharp\WPF Rewind 2018\BasicCustomCommand\obj\Debug\BasicCustomCommand.csprojResolveAssemblyReference.cache

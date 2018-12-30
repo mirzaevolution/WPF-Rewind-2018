@@ -1,0 +1,15 @@
+D:\programming\Csharp\WPF Rewind 2018\ContentPresenterDemo\bin\Debug\ContentPresenterDemo.exe.config
+D:\programming\Csharp\WPF Rewind 2018\ContentPresenterDemo\bin\Debug\ContentPresenterDemo.exe
+D:\programming\Csharp\WPF Rewind 2018\ContentPresenterDemo\bin\Debug\ContentPresenterDemo.pdb
+D:\programming\Csharp\WPF Rewind 2018\ContentPresenterDemo\obj\Debug\MainWindow.g.cs
+D:\programming\Csharp\WPF Rewind 2018\ContentPresenterDemo\obj\Debug\App.g.cs
+D:\programming\Csharp\WPF Rewind 2018\ContentPresenterDemo\obj\Debug\ContentPresenterDemo_MarkupCompile.cache
+D:\programming\Csharp\WPF Rewind 2018\ContentPresenterDemo\obj\Debug\ContentPresenterDemo_MarkupCompile.lref
+D:\programming\Csharp\WPF Rewind 2018\ContentPresenterDemo\obj\Debug\MainWindow.baml
+D:\programming\Csharp\WPF Rewind 2018\ContentPresenterDemo\obj\Debug\ContentPresenterDemo.g.resources
+D:\programming\Csharp\WPF Rewind 2018\ContentPresenterDemo\obj\Debug\ContentPresenterDemo.Properties.Resources.resources
+D:\programming\Csharp\WPF Rewind 2018\ContentPresenterDemo\obj\Debug\ContentPresenterDemo.csproj.GenerateResource.Cache
+D:\programming\Csharp\WPF Rewind 2018\ContentPresenterDemo\obj\Debug\ContentPresenterDemo.csproj.CoreCompileInputs.cache
+D:\programming\Csharp\WPF Rewind 2018\ContentPresenterDemo\obj\Debug\ContentPresenterDemo.exe
+D:\programming\Csharp\WPF Rewind 2018\ContentPresenterDemo\obj\Debug\ContentPresenterDemo.pdb
+D:\programming\Csharp\WPF Rewind 2018\ContentPresenterDemo\obj\Debug\ContentPresenterDemo.csprojResolveAssemblyReference.cache

@@ -12,3 +12,18 @@ D:\Programming\WPF Rewind\WPF-Rewind-2018\DatagridCustomColumn\obj\Debug\Datagri
 D:\Programming\WPF Rewind\WPF-Rewind-2018\DatagridCustomColumn\obj\Debug\DatagridCustomColumn.csproj.GenerateResource.Cache
 D:\Programming\WPF Rewind\WPF-Rewind-2018\DatagridCustomColumn\obj\Debug\DatagridCustomColumn.exe
 D:\Programming\WPF Rewind\WPF-Rewind-2018\DatagridCustomColumn\obj\Debug\DatagridCustomColumn.pdb
+D:\programming\Csharp\WPF Rewind 2018\DatagridCustomColumn\bin\Debug\DatagridCustomColumn.exe.config
+D:\programming\Csharp\WPF Rewind 2018\DatagridCustomColumn\bin\Debug\DatagridCustomColumn.exe
+D:\programming\Csharp\WPF Rewind 2018\DatagridCustomColumn\bin\Debug\DatagridCustomColumn.pdb
+D:\programming\Csharp\WPF Rewind 2018\DatagridCustomColumn\obj\Debug\DatagridCustomColumn.csprojResolveAssemblyReference.cache
+D:\programming\Csharp\WPF Rewind 2018\DatagridCustomColumn\obj\Debug\MainWindow.g.cs
+D:\programming\Csharp\WPF Rewind 2018\DatagridCustomColumn\obj\Debug\App.g.cs
+D:\programming\Csharp\WPF Rewind 2018\DatagridCustomColumn\obj\Debug\DatagridCustomColumn_MarkupCompile.cache
+D:\programming\Csharp\WPF Rewind 2018\DatagridCustomColumn\obj\Debug\DatagridCustomColumn_MarkupCompile.lref
+D:\programming\Csharp\WPF Rewind 2018\DatagridCustomColumn\obj\Debug\MainWindow.baml
+D:\programming\Csharp\WPF Rewind 2018\DatagridCustomColumn\obj\Debug\DatagridCustomColumn.g.resources
+D:\programming\Csharp\WPF Rewind 2018\DatagridCustomColumn\obj\Debug\DatagridCustomColumn.Properties.Resources.resources
+D:\programming\Csharp\WPF Rewind 2018\DatagridCustomColumn\obj\Debug\DatagridCustomColumn.csproj.GenerateResource.Cache
+D:\programming\Csharp\WPF Rewind 2018\DatagridCustomColumn\obj\Debug\DatagridCustomColumn.csproj.CoreCompileInputs.cache
+D:\programming\Csharp\WPF Rewind 2018\DatagridCustomColumn\obj\Debug\DatagridCustomColumn.exe
+D:\programming\Csharp\WPF Rewind 2018\DatagridCustomColumn\obj\Debug\DatagridCustomColumn.pdb

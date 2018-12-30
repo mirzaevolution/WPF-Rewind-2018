@@ -1,0 +1,46 @@
+﻿<Window x:Class="ItemsPresenterDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ItemsPresenterDemo"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="392" Width="450.5">
+    <Window.Resources>
+        <ControlTemplate x:Key="ListBoxCustomTemplate" TargetType="ListBox">
+            <Grid>
+                <Border Background="Bisque" CornerRadius="10" Margin="15 15 0 0" />
+                <Border Background="White" CornerRadius="10" Margin="0 0 15 15"
+                    BorderBrush="Black" BorderThickness="3">
+                    <ScrollViewer HorizontalScrollBarVisibility="Auto"
+                                     VerticalScrollBarVisibility="Auto">
+                        <ItemsPresenter Margin="10"/>
+                    </ScrollViewer>
+                </Border>
+            </Grid>
+        </ControlTemplate>
+    </Window.Resources>
+    <Grid>
+        <ListBox Margin="20" Template="{StaticResource ListBoxCustomTemplate}">
+            <sys:String>The Frog King</sys:String>
+            <sys:String>Cat and Mouse in Partnership</sys:String>
+            <sys:String>Mary's Child</sys:String>
+            <sys:String>The Wolf and the Seven Young Kids</sys:String>
+            <sys:String>Trusty John</sys:String>
+            <sys:String>The Good Bargain</sys:String>
+            <sys:String>The Frog King</sys:String>
+            <sys:String>Cat and Mouse in Partnership</sys:String>
+            <sys:String>Mary's Child</sys:String>
+            <sys:String>The Wolf and the Seven Young Kids</sys:String>
+            <sys:String>Trusty John</sys:String>
+            <sys:String>The Good Bargain</sys:String>
+            <sys:String>The Frog King</sys:String>
+            <sys:String>Cat and Mouse in Partnership</sys:String>
+            <sys:String>Mary's Child</sys:String>
+            <sys:String>The Wolf and the Seven Young Kids</sys:String>
+            <sys:String>Trusty John</sys:String>
+            <sys:String>The Good Bargain</sys:String>
+        </ListBox>
+    </Grid>
+</Window>

@@ -1,0 +1,14 @@
+D:\programming\Csharp\WPF Rewind 2018\LinearGradientBrushRewind\bin\Debug\LinearGradientBrushRewind.exe.config
+D:\programming\Csharp\WPF Rewind 2018\LinearGradientBrushRewind\bin\Debug\LinearGradientBrushRewind.exe
+D:\programming\Csharp\WPF Rewind 2018\LinearGradientBrushRewind\bin\Debug\LinearGradientBrushRewind.pdb
+D:\programming\Csharp\WPF Rewind 2018\LinearGradientBrushRewind\obj\Debug\MainWindow.g.cs
+D:\programming\Csharp\WPF Rewind 2018\LinearGradientBrushRewind\obj\Debug\App.g.cs
+D:\programming\Csharp\WPF Rewind 2018\LinearGradientBrushRewind\obj\Debug\LinearGradientBrushRewind_MarkupCompile.cache
+D:\programming\Csharp\WPF Rewind 2018\LinearGradientBrushRewind\obj\Debug\LinearGradientBrushRewind_MarkupCompile.lref
+D:\programming\Csharp\WPF Rewind 2018\LinearGradientBrushRewind\obj\Debug\MainWindow.baml
+D:\programming\Csharp\WPF Rewind 2018\LinearGradientBrushRewind\obj\Debug\LinearGradientBrushRewind.g.resources
+D:\programming\Csharp\WPF Rewind 2018\LinearGradientBrushRewind\obj\Debug\LinearGradientBrushRewind.Properties.Resources.resources
+D:\programming\Csharp\WPF Rewind 2018\LinearGradientBrushRewind\obj\Debug\LinearGradientBrushRewind.csproj.GenerateResource.Cache
+D:\programming\Csharp\WPF Rewind 2018\LinearGradientBrushRewind\obj\Debug\LinearGradientBrushRewind.csproj.CoreCompileInputs.cache
+D:\programming\Csharp\WPF Rewind 2018\LinearGradientBrushRewind\obj\Debug\LinearGradientBrushRewind.exe
+D:\programming\Csharp\WPF Rewind 2018\LinearGradientBrushRewind\obj\Debug\LinearGradientBrushRewind.pdb

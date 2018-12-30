@@ -1,0 +1,15 @@
+D:\programming\Csharp\WPF Rewind 2018\MultiTriggerRewind\bin\Debug\MultiTriggerRewind.exe.config
+D:\programming\Csharp\WPF Rewind 2018\MultiTriggerRewind\bin\Debug\MultiTriggerRewind.exe
+D:\programming\Csharp\WPF Rewind 2018\MultiTriggerRewind\bin\Debug\MultiTriggerRewind.pdb
+D:\programming\Csharp\WPF Rewind 2018\MultiTriggerRewind\obj\Debug\MainWindow.g.cs
+D:\programming\Csharp\WPF Rewind 2018\MultiTriggerRewind\obj\Debug\App.g.cs
+D:\programming\Csharp\WPF Rewind 2018\MultiTriggerRewind\obj\Debug\MultiTriggerRewind_MarkupCompile.cache
+D:\programming\Csharp\WPF Rewind 2018\MultiTriggerRewind\obj\Debug\MultiTriggerRewind_MarkupCompile.lref
+D:\programming\Csharp\WPF Rewind 2018\MultiTriggerRewind\obj\Debug\MainWindow.baml
+D:\programming\Csharp\WPF Rewind 2018\MultiTriggerRewind\obj\Debug\MultiTriggerRewind.g.resources
+D:\programming\Csharp\WPF Rewind 2018\MultiTriggerRewind\obj\Debug\MultiTriggerRewind.Properties.Resources.resources
+D:\programming\Csharp\WPF Rewind 2018\MultiTriggerRewind\obj\Debug\MultiTriggerRewind.csproj.GenerateResource.Cache
+D:\programming\Csharp\WPF Rewind 2018\MultiTriggerRewind\obj\Debug\MultiTriggerRewind.csproj.CoreCompileInputs.cache
+D:\programming\Csharp\WPF Rewind 2018\MultiTriggerRewind\obj\Debug\MultiTriggerRewind.exe
+D:\programming\Csharp\WPF Rewind 2018\MultiTriggerRewind\obj\Debug\MultiTriggerRewind.pdb
+D:\programming\Csharp\WPF Rewind 2018\MultiTriggerRewind\obj\Debug\MultiTriggerRewind.csprojResolveAssemblyReference.cache

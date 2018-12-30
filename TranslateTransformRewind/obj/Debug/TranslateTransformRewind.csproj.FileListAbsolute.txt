@@ -1,0 +1,14 @@
+D:\programming\Csharp\WPF Rewind 2018\TranslateTransformRewind\bin\Debug\TranslateTransformRewind.exe.config
+D:\programming\Csharp\WPF Rewind 2018\TranslateTransformRewind\bin\Debug\TranslateTransformRewind.exe
+D:\programming\Csharp\WPF Rewind 2018\TranslateTransformRewind\bin\Debug\TranslateTransformRewind.pdb
+D:\programming\Csharp\WPF Rewind 2018\TranslateTransformRewind\obj\Debug\MainWindow.g.cs
+D:\programming\Csharp\WPF Rewind 2018\TranslateTransformRewind\obj\Debug\App.g.cs
+D:\programming\Csharp\WPF Rewind 2018\TranslateTransformRewind\obj\Debug\TranslateTransformRewind_MarkupCompile.cache
+D:\programming\Csharp\WPF Rewind 2018\TranslateTransformRewind\obj\Debug\TranslateTransformRewind_MarkupCompile.lref
+D:\programming\Csharp\WPF Rewind 2018\TranslateTransformRewind\obj\Debug\MainWindow.baml
+D:\programming\Csharp\WPF Rewind 2018\TranslateTransformRewind\obj\Debug\TranslateTransformRewind.g.resources
+D:\programming\Csharp\WPF Rewind 2018\TranslateTransformRewind\obj\Debug\TranslateTransformRewind.Properties.Resources.resources
+D:\programming\Csharp\WPF Rewind 2018\TranslateTransformRewind\obj\Debug\TranslateTransformRewind.csproj.GenerateResource.Cache
+D:\programming\Csharp\WPF Rewind 2018\TranslateTransformRewind\obj\Debug\TranslateTransformRewind.csproj.CoreCompileInputs.cache
+D:\programming\Csharp\WPF Rewind 2018\TranslateTransformRewind\obj\Debug\TranslateTransformRewind.exe
+D:\programming\Csharp\WPF Rewind 2018\TranslateTransformRewind\obj\Debug\TranslateTransformRewind.pdb

@@ -1,0 +1,16 @@
+D:\programming\Csharp\WPF Rewind 2018\DataTriggerRewind2\bin\Debug\DataTriggerRewind2.exe.config
+D:\programming\Csharp\WPF Rewind 2018\DataTriggerRewind2\bin\Debug\DataTriggerRewind2.exe
+D:\programming\Csharp\WPF Rewind 2018\DataTriggerRewind2\bin\Debug\DataTriggerRewind2.pdb
+D:\programming\Csharp\WPF Rewind 2018\DataTriggerRewind2\obj\Debug\DataTriggerRewind2.csprojResolveAssemblyReference.cache
+D:\programming\Csharp\WPF Rewind 2018\DataTriggerRewind2\obj\Debug\MainWindow.g.cs
+D:\programming\Csharp\WPF Rewind 2018\DataTriggerRewind2\obj\Debug\App.g.cs
+D:\programming\Csharp\WPF Rewind 2018\DataTriggerRewind2\obj\Debug\DataTriggerRewind2_MarkupCompile.cache
+D:\programming\Csharp\WPF Rewind 2018\DataTriggerRewind2\obj\Debug\DataTriggerRewind2_MarkupCompile.lref
+D:\programming\Csharp\WPF Rewind 2018\DataTriggerRewind2\obj\Debug\MainWindow.baml
+D:\programming\Csharp\WPF Rewind 2018\DataTriggerRewind2\obj\Debug\DataTriggerRewind2.g.resources
+D:\programming\Csharp\WPF Rewind 2018\DataTriggerRewind2\obj\Debug\DataTriggerRewind2.Properties.Resources.resources
+D:\programming\Csharp\WPF Rewind 2018\DataTriggerRewind2\obj\Debug\DataTriggerRewind2.csproj.GenerateResource.Cache
+D:\programming\Csharp\WPF Rewind 2018\DataTriggerRewind2\obj\Debug\DataTriggerRewind2.csproj.CoreCompileInputs.cache
+D:\programming\Csharp\WPF Rewind 2018\DataTriggerRewind2\obj\Debug\DataTriggerRewind2.exe
+D:\programming\Csharp\WPF Rewind 2018\DataTriggerRewind2\obj\Debug\DataTriggerRewind2.pdb
+D:\programming\Csharp\WPF Rewind 2018\DataTriggerRewind2\obj\Debug\GeneratedInternalTypeHelper.g.cs

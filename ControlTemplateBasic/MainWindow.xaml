@@ -1,0 +1,25 @@
+﻿<Window x:Class="ControlTemplateBasic.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ControlTemplateBasic"
+        mc:Ignorable="d"
+        Title="Control Template" Height="170" Width="250">
+    <Window.Resources>
+        <ControlTemplate x:Key="BasicButtonTemplate" TargetType="Button">
+            <Grid>
+                <Border Background="Black" Margin="5 5 0 0"/>
+                <Border BorderBrush="Black" BorderThickness="1"
+                        Background="Yellow" Margin="0 0 5 5">
+                    <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" 
+                               Text="{TemplateBinding Content}"/>
+                </Border>
+            </Grid>
+        </ControlTemplate>
+    </Window.Resources>
+    <Grid>
+        <Button Name="ButtonOk" Content="OK" Click="ButtonOk_Click" Width="80" Height="30"
+                Template="{StaticResource BasicButtonTemplate}"/>
+    </Grid>
+</Window>
